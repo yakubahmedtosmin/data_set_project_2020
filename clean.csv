@@ -1,0 +1,932 @@
+,index,name,TD50_Rat,TD50_Mouse,cas,smiles,class,molobj
+0,1,Acetaminophen,495,1620,103-90-2,CC(=O)NC1=CC=C(C=C1)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728aa80>
+1,2,Acetohexamide,,,968-81-0,CC(=O)C1=CC=C(C=C1)S(=O)(=O)NC(=O)NC2CCCCC2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728aa30>
+2,3,Acetone[4-(5-nitro-2-furyl)-2-thiazoly l]hydrazone,6.05,,18523-69-8,CC(=NNC1=NC=C(S1)C2=CC=C(O2)[N+](=O)[O-])C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728a990>
+3,4,Acetoxime,12.01,,127-06-0,CC(=NO)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728aad0>
+4,5,1'-Acetoxysafrole,25,,34627-78-6,CC(=O)OC(C=C)C1=CC2=C(C=C1)OCO2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ab20>
+5,6,4-Acetylaminobiphenyl,1.18,,4075-79-0,CC(=O)NC1=CC=C(C=C1)C2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ab70>
+6,7,1-Acetylaminofluorene,,,28314-03-06,CC(=O)NC1=CC=CC2=C1CC3=CC=CC=C32,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728abc0>
+7,8,2-Acetylaminofluorene,1.22,7.59,53-96-3,CC(=O)NC1=CC2=C(C=C1)C3=CC=CC=C3C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ac10>
+8,9,4-Acetylaminofluorene,,,28322-02-03,CC(=O)NC1=CC=CC2=C1C3=CC=CC=C3C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ac60>
+9,10,4-Acetylaminophenylacetic acid,,,18699-02-0,CC(=O)NC1=CC=C(C=C1)CC(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728acb0>
+10,11,N-Acetylcysteine,,,616-91-1,CC(=O)N[C@@H](CS)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ad00>
+11,12,Acrolein,,,0107-02-08,C=CC=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ad50>
+12,13,Acroleindiethylacetal,,,3054-95-3,CCOC(C=C)OCC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ada0>
+13,14,Acrolein oxime ,,,5314-33-0,C=C/C=N/O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728adf0>
+14,15,Acronycine,0.505,,7008-42-6,CC1(C=CC2=C3C(=C(C=C2O1)OC)C(=O)C4=CC=CC=C4N3C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ae40>
+15,16,Acrylamide,3.75,,1979-06-01,C=CC(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ae90>
+16,17,Acrylic acid ,,,1979-10-07,C=CC(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728aee0>
+17,18,Acrylonitrile,16.9,6.32,107-13-1,C=CC#N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728af30>
+18,19,Adipamide,,,628-94-4,C(CCC(=O)N)CC(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728af80>
+19,20,AF-2,29.4,131,3688-53-7,C1=COC(=C1)/C(=C/C2=CC=C(O2)[N+](=O)[O-])/C(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291030>
+20,21,Aflatoxicol,0.00247,,29611-03-08,COC1=C2C3=C([C@@H](CC3)O)C(=O)OC2=C4[C@@H]5C=CO[C@H]5OC4=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291080>
+21,22,Aflatoxin B1 ,0.0032,,1162-65-8,COC1=C2C3=C(C(=O)CC3)C(=O)OC2=C4C5C=COC5OC4=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872910d0>
+22,23,Aflatoxin G1 ,0.0029,,1165-39-5,COC1=C2C3=C(C(=O)OCC3)C(=O)OC2=C4C5C=COC5OC4=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291120>
+23,24,Alclofenac,,,22131-79-9,C=CCOC1=C(C=C(C=C1)CC(=O)O)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291170>
+24,25,Aldicarb,,,0116-06-03,CC(C)(/C=N/OC(=O)NC)SC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872911c0>
+25,26,Aldrin,,1.27,309-00-2,C1[C@@H]2C=CC1[C@H]3[C@@H]2[C@]4(C(=C(C3(C4(Cl)Cl)Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291210>
+26,27,Alkylbenzenesulfonate,,,42615-29-2,CCCCCCCCCCC(C)C1=CC=C(C=C1)S(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291260>
+27,28,Decylamine oxide,,,2605-79-0,CCCCCCCCCC[N+](C)(C)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872912b0>
+28,29,Allantoin,,,97-59-6,C1(C(=O)NC(=O)N1)NC(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291300>
+29,30,Allyl alcohol ,,,107-18-6,C=CCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291350>
+30,31,Allyl glycidyl ether ,,182,106-92-3,C=CCOCC1CO1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872913a0>
+31,32,Allylisothiocyanate,96,,1957-06-07,C=CCN=C=S,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872913f0>
+32,33,Allyl isovalerate ,123,62.8,2835-39-4,CC(C)CC(=O)OCC=C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291440>
+33,34,1-Allyl-1-nitrosourea,0.341,,760-56-5,C=CCN(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291490>
+34,35,"1-Amino-2,4-dibromoanthraquinone",46,477,81-49-2,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3Br)Br)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291580>
+35,36,3-Amino-4-ethoxyacetanilide,,2070,17026-81-2,CCOC1=C(C=C(C=C1)NC(=O)C)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872916c0>
+36,37,3-Amino-9-ethylcarbazole,57.2,38.6,6109-97-3,CCN1C2=C(C=C(C=C2)N)C3=CC=CC=C31,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291710>
+37,38,"3-Amino-4-[2-[(2-guanidinothiazol-4-yl)methylthio], ethylamino]-1,2,5-t hiadiazole",4990,,NOCAS,C1=C(N=C(S1)N=C(N)N)CSCCNC2=NSN=C2N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291760>
+38,39,1-Amino-2-methylanthraquinone,59.2,174,82-28-0,CC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3C2=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872917b0>
+39,40,"2-Amino-5-(5-nitro-2-furyl)-1,3,4-oxa diazole",3.67,,3775-55-1,C1=C(OC(=C1)[N+](=O)[O-])C2=NN=C(O2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291800>
+40,41,"2-Amino-5-(5-nitro-2-furyl)-1,3,4-thia diazole",0.662,,712-68-5,C1=C(OC(=C1)[N+](=O)[O-])C2=NN=C(S2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291850>
+41,42,2-Amino-4-(5-nitro-2-furyl)thiazole,5.85,7.87,38514-71-5,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872918a0>
+42,43,2-Amino-4-nitrophenol,839,,99-57-0,C1=CC(=C(C=C1[N+](=O)[O-])N)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872918f0>
+43,44,2-Amino-5-nitrophenol,111,,121-88-0,C1=CC(=C(C=C1[N+](=O)[O-])O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291940>
+44,45,4-Amino-2-nitrophenol,309,,119-34-6,C1=CC(=C(C=C1N)[N+](=O)[O-])O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291990>
+45,46,2-Amino-5-nitrothiazole,44.6,,121-66-4,C1=C(SC(=N1)N)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872919e0>
+46,47,2-Amino-5-phenyl-2-oxazolin-4-one + Mg(OH)2,,,18968-99-5,C1=CC=C(C=C1)C2C(=O)N=C(O2)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291a30>
+47,48,2-Aminoanthraquinone,101,1190,117-79-3,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C=C(C=C3)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291a80>
+48,49,O-Aminoazotoluene,4.04,,97-56-3,CC1=CC=CC=C1N=NC2=CC(=C(C=C2)N)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291ad0>
+49,50,6-Aminocaproicacid,,,60-32-2,C(CCC(=O)O)CCN,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291b20>
+50,51,4-Aminodiphenyl,,2.1,92-67-1,C1=CC=C(C=C1)C2=CC=C(C=C2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291b70>
+51,52,1-(Aminomethyl)c yclohexaneaceticacid,5850,,60142-96-3,C1CCC(CC1)(CC(=O)O)CN,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291bc0>
+52,53,"2,2´-[(4-Aminophe nyl)imino]bisethanol",,,54381-16-7,C1=CC(=CC=C1N)N(CCO)CCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291c10>
+53,54,"11-Aminoundecan
+oic acid",1100,,2432-99-7,C(CCCCCN)CCCCC(=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291c60>
+54,55,Ammonium citrate,,,3012-65-5,C(C(=O)O)C(CC(=O)[O-])(C(=O)[O-])O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291cb0>
+55,56,Amobarbital,,,57-43-2,CCC1(C(=O)NC(=O)NC1=O)CCC(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb59171cee0>
+56,57,Dl-Amphetamine sulfate,,,60-13-9,CC(CC1=CC=CC=C1)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291d00>
+57,58,Ampicillin trihydrate,,,7177-48-2,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)[C@@H](C3=CC=CC=C3)N)C(=O)O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291d50>
+58,59,1-Amyl-1-nitrosourea,0.555,,10589-74-9,CCCCCN(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291da0>
+59,60,trans-Anethole,,,4180-23-8,C/C=C/C1=CC=C(C=C1)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291df0>
+60,61,Anilazine,,,0101-05-03,C1=CC=C(C(=C1)NC2=NC(=NC(=N2)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291e40>
+61,62,o-Anisidine,29.7,966,134-29-2,COC1=CC=CC=C1N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291e90>
+62,63,p-Anisidine,,,20265-97-8,COC1=CC=C(C=C1)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291ee0>
+63,64,Anthranilic acid ,,,118-92-3,C1=CC=C(C(=C1)C(=O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291f30>
+64,65,Aramite,96.7,158,140-57-8,CC(COC1=CC=C(C=C1)C(C)(C)C)OS(=O)OCCCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587291f80>
+65,66,Aristolochic acid ,0.0141,,10190-99-5,COC1=CC=CC2=C3C(=C(C=C21)[N+](=O)[O-])C(=CC4=C3OCO4)C(=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295030>
+66,67,Aroclor 1016 ,53.9,,12674-11-02,C1=CC(=CC(=C1)Cl)C2=CC(=CC(=C2)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295080>
+67,68,Aroclor 1242,11.8,,36559-22-5,C1=CC(=C(C(=C1)Cl)Cl)C2=C(C=C(C=C2)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872950d0>
+68,69,Arochlor 1254,4.8,9.58,11097-69-1,C1=CC(=C(C(=C1)Cl)Cl)C2=C(C(=C(C=C2)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295120>
+69,70,Aroclor 1260 ,2.81,,11096-82-5,C1=CC(=C(C(=C1C2=C(C(=C(C=C2)Cl)Cl)Cl)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295170>
+70,71,l-Ascorbate,,,0134-03-02,C(C(C1C(=C(C(=O)O1)O)[O-])O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872951c0>
+71,72,L-Ascorbic acid ,,,50-81-7,C([C@@H]([C@@H]1C(=C(C(=O)O1)O)O)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295210>
+72,73,Aspartame,,,22839-47-0,COC(=O)[C@H](CC1=CC=CC=C1)NC(=O)[C@H](CC(=O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295260>
+73,74,Aspirin,,,50-78-2,CC(=O)OC1=CC=CC=C1C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872952b0>
+74,75,Astemizole,,,68844-77-9,COC1=CC=C(C=C1)CCN2CCC(CC2)NC3=NC4=CC=CC=C4N3CC5=CC=C(C=C5)F,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295300>
+75,76,dl-Atenolol,,,51706-40-2,CC(C)NCC(COC1=CC=C(C=C1)CC(=O)N)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295350>
+76,77,Atrazine,36.6,,1912-24-9,CCNC1=NC(=NC(=N1)Cl)NC(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872953a0>
+77,78,Atropine,,,51-55-8,CN1[C@@H]2CC[C@H]1CC(C2)OC(=O)C(CO)C3=CC=CC=C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872953f0>
+78,79,Auramine-O,11,62.7,2465-27-2,CN(C)C1=CC=C(C=C1)C(=N)C2=CC=C(C=C2)N(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295440>
+79,80,5-Azacytidine,0.17,0.0774,320-67-2,C1=NC(=NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295490>
+80,81,6-Azacytidine,,,3131-60-0,C1=NN(C(=O)N=C1N)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872954e0>
+81,82,Azaserine,0.793,,0115-02-06,C([C@@H](C(=O)O)N)O/C(=C/[N+]#N)/[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295530>
+82,83,Azathioprine,,8.92,446-86-6,CN1C=NC(=C1SC2=NC=NC3=C2NC=N3)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295580>
+83,84,Azelnidipine,,,123524-52-7,CC1=C(C(C(=C(N1)N)C(=O)OC2CN(C2)C(C3=CC=CC=C3)C4=CC=CC=C4)C5=CC(=CC=C5)[N+](=O)[O-])C(=O)OC(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872955d0>
+84,85,Azinphosmethyl,,,86-50-0,COP(=S)(OC)SCN1C(=O)C2=CC=CC=C2N=N1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295620>
+85,86,Azobenzene,24.1,,103-33-3,C1=CC=C(C=C1)N=NC2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295670>
+86,87,1-Azoxypropane,0.000241,,17697-55-1,CCCN=[N+](CCC)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872956c0>
+87,88,2-Azoxypropane,0.00268,,NOCAS,CC(C)N=[N+](C(C)C)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295710>
+88,89,AZT,11600,296,30516-87-1,CC1=CN(C(=O)NC1=O)[C@H]2C[C@@H]([C@H](O2)CO)N=[N+]=[N-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295760>
+89,90,Barbital,45.7,,0144-02-05,CCC1(C(=O)NC(=NC1=O)[O-])CC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872957b0>
+90,91,Barbituric acid ,,,67-52-7,C1C(=O)NC(=O)NC1=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295800>
+91,92,Bemitradine,548,,22597-11-03,CCOCCC1=C(N=C(N2C1=NC=N2)N)C3=CC=CC=C3,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295850>
+92,93,Benzalazine,,,64896-26-0,C1=CC(=CC=C1C(=O)O)N/N=C/2\C=CC(=O)C(=C2)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872958a0>
+93,94,Benzaldehyde,,1490,100-52-7,C1=CC=C(C=C1)C=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295940>
+94,95,Benzene,169,77.5,71-43-2,C1=CC=CC=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295990>
+95,96,Benzidine,1.73,19.9,92-87-5,C1=CC(=CC=C1C2=CC=C(C=C2)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872959e0>
+96,97,Benzo(a)pyrene,0.956,3.47,50-32-8,C1=CC=C2C3=C4C(=CC2=C1)C=CC5=C4C(=CC=C5)C=C3,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295a30>
+97,98,Benzoate,,,532-32-1,C1=CC=C(C=C1)C(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295a80>
+98,99,Benzofuran,424,25.1,271-89-6,C1=CC=C2C(=C1)C=CO2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295ad0>
+99,100,Benzoguanamine,,,91-76-9,C1=CC=C(C=C1)C2=NC(=NC(=N2)N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295b20>
+100,101,Benzoic acid ,,,65-85-0,C1=CC=C(C=C1)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295b70>
+101,102,Benzoin,,,119-53-9,C1=CC=C(C=C1)C(C(=O)C2=CC=CC=C2)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295bc0>
+102,103,1H-Benzotriazole,,,95-14-7,C1=CC2=NNN=C2C=C1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295c10>
+103,104,Benzyl acetate ,,1440,0140-11-04,CC(=O)OCC1=CC=CC=C1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295c60>
+104,105,Benzyl alcohol ,,,100-51-6,C1=CC=C(C=C1)CO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295cb0>
+105,106,Benzyl chloride ,,61.5,100-44-7,C1=CC=C(C=C1)CCl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295d00>
+106,107,O-Benzyl-p-chlorophenol,,1350,120-32-1,C1=CC=C(C=C1)CC2=C(C=CC(=C2)Cl)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295d50>
+107,108,Benzylisothiocyanate,,,622-78-6,C1=CC=C(C=C1)CN=C=S,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295e40>
+108,109,Benzyl thiocyanate ,,,3012-37-1,C1=CC=C(C=C1)CSC#N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295e90>
+109,110,"3-Benzylsydnone-4
+-acetamide",4.24,10.2,14504-15-5,C1=CC=C(C=C1)C[N+]2=NOC(=C2CC(=O)N)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295ee0>
+110,111,2-Biphenylamine,,1120,2185-92-4,C1=CC=C(C=C1)C2=CC=CC=C2N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295f30>
+111,112,Bis(2-chloro-1-methylethyl)ether,,191,108-60-1,CC(CCl)OC(C)CCl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587295f80>
+112,113,"Bis(2,3-dibromopropyl)phosphate",32,,36711-31-6,C(C(CBr)Br)OP(=O)([O-])OCC(CBr)Br,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58f7d0e40>
+113,114,"1,4-Bis[2-(3,5-dich loropyridyloxy)]benzene",,,76150-91-9,C1=CC(=CC=C1OC2=C(C=C(C=N2)Cl)Cl)OC3=C(C=C(C=N3)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299030>
+114,115,4-Bis(2-hydroxyet hyl)amino-2-(5-nitr o-2-thienyl)quinazoline,3.14,,33372-39-3,C1=CC=C2C(=C1)C(=NC(=N2)C3=CC=C(S3)[N+](=O)[O-])N(CCO)CCO,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299080>
+115,116,4-Bis(2-hydroxyet hyl)amino-2-(2-thienyl)quinazoline,,,58139-47-2,C1=CC=C2C(=C1)C(=NC(=N2)C3=CC=CS3)N(CCO)CCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872990d0>
+116,117,Bis(2-hydroxypropyl)amine,,,110-97-4,CC(CNCC(C)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299120>
+117,118, Bisphenol A,,,1980-05-07,CC(C)(C1=CC=C(C=C1)O)C2=CC=C(C=C2)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299170>
+118,119,Black PN ,,,2519-30-4,CC(=O)NC1=C2C(=C(C=C1)S(=O)(=O)[O-])C=C(/C(=N\NC3=C4C=C(C=CC4=C(C=C3)N=NC5=CC=C(C=C5)S(=O)(=O)[O-])S(=O)(=O)[O-])/C2=O)S (=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872991c0>
+119,120,C.I. direct black 38,1.39,71.6,1937-37-7,C1=CC=C(C=C1)N=NC2=C(C3=C(C(=C(C=C3C=C2S(=O)(=O)O)S(=O)(=O)O)N=NC4=CC=C(C=C4)C5=CC=C(C=C5)N=NC6=C(C=C(C=C6)N)N)N)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299210>
+120,121,C.I. direct blue 6,1.73,,2602-46-2,C1=CC(=CC=C1C2=CC=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)[O-])S(=O)(=O)[O-])N)O)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)[O-])S(=O)(=O)[O-])N)O.[Na+].[Na+].[Na+].[Na+],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299260>
+121,122,C.I. direct blue 15,27.5,,2429-74-5,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=NC3=C(C4=C(C=C(C=C4C=C3S(=O)(=O)O)S(=O)(=O)O)N)O)OC)N=NC5=C(C6=C(C=C(C=C6C=C5S(=O)(=O)O)S(=O)(=O)O)N)O.[Na+],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872992b0>
+122,123,C.I. disperse blue 1 ,156,,2475-45-8,C1=CC(=C2C(=C1N)C(=O)C3=C(C=CC(=C3C2=O)N)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299300>
+123,124,FD & C blue no. 1 ,,,3844-45-9,CCN(CC1=CC(=CC=C1)S(=O)(=O)[O-])C2=CC=C(C=C2)C(=C3C=CC(=[N+](CC)CC4=CC(=CC=C4)S(=O)(=O)[O-])C=C3)C5=CC=CC=C5S(=O)(=O)[O-].[Na+].[Na+],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299350>
+125,126,HC blue no. 1 ,702,86.3,2784-94-3,CNC1=C(C=C(C=C1)N(CCO)CCO)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872993a0>
+126,127,HC blue no. 2 ,,,33229-34-4,C1=CC(=C(C=C1N(CCO)CCO)[N+](=O)[O-])NCCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872993f0>
+129,130,2-Butoxyethanol,,1710,111-76-2,CCCCOCCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299490>
+130,131,Tert-Butyl alcohol ,64.6,21900,75-65-0,CC(C)(C)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872994e0>
+131,132,N-Butyl chloride ,,,109-69-3,CCCCCl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299530>
+132,133,N-Butyl-N-(4-hydr oxybutyl)nitrosamine,0.457,,3817-11-06,CCCCN(CCCCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299580>
+133,134,di-tert-Butyl-4-hydroxymethyl phenol,,,88-26-6,CC(C)(C)C1=CC(=CC(=C1O)C(C)(C)C)CO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872995d0>
+134,135,2-tert-Butyl-4-methylphenol,,,2409-55-4,CC1=CC(=C(C=C1)O)C(C)(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299620>
+135,136,N-Butyl-N'-nitro-N-nitrosoguanidine,,,13010-08-07,CCCCN(/C(=N/[N+](=O)[O-])/N)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299670>
+136,137,N-n-Butyl-N-nitrosourea,0.517,,0869-01-02,CCCCN(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872996c0>
+137,138,Butylated hydroxyanisole,405,5530,25013-16-5,CC(C)(C)C1=C(C=CC(=C1)OC)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299710>
+138,139,Butylated hydroxytoluene,,653,128-37-0,CC1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299760>
+139,140,"2,4,6-tri-tert-Butyl phenol",,,732-26-3,CC(C)(C)C1=CC(=C(C(=C1)C(C)(C)C)O)C(C)(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872997b0>
+140,141,p-tert-Butylphenol,,,98-54-4,CC(C)(C)C1=CC=C(C=C1)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299800>
+141,142,N-Butylurea,,,592-31-4,CCCCNC(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299850>
+142,143,beta-Butyrolactone,13.8,,3068-88-0,CC1CC(=O)O1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872998a0>
+143,144,Gamma-Butyrolactone,,,96-48-0,C1CC(=O)OC1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872998f0>
+144,145,Caffeic acid ,297,4900,331-39-5,C1=CC(=C(C=C1/C=C/C(=O)O)O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299940>
+145,146,Caffeine,,,1958-08-02,CN1C=NC2=C1C(=O)N(C(=O)N2C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299990>
+146,147,Camostat,,,59721-29-8,CN(C)C(=O)COC(=O)CC1=CC=C(C=C1)OC(=O)C2=CC=C(C=C2)N=C(N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872999e0>
+148,149,Caprolactam,,,105-60-2,C1CCC(=O)NCC1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299a30>
+149,150,Captafol,73.4,178,2425-06-01,C1C=CCC2C1C(=O)N(C2=O)SC(C(Cl)Cl)(Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299a80>
+150,151,Captan,2080,2110,0133-06-02,C1C=CCC2C1C(=O)N(C2=O)SC(Cl)(Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299ad0>
+151,152,Carbaryl,14.1,,63-25-2,CNC(=O)OC1=CC=CC2=CC=CC=C21,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299b20>
+152,153,Carboxymethylnitrosourea,4.31,,60391-92-6,C(C(=O)O)N(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299b70>
+153,154,Carbromal,,,77-65-6,CCC(CC)(C(=O)NC(=O)N)Br,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299bc0>
+154,155,b-Carotene,,,7235-40-7,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C=C/C=C(/C=C/C=C(/C=C/C2=C(CCCC2(C)C)C)\C)\C)/C)/C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299c10>
+155,156,Catechol,71.5,244,120-80-9,C1=CC=C(C(=C1)O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299c60>
+156,157,Celecoxib,,,169590-42-5,CC1=CC=C(C=C1)C2=CC(=NN2C3=CC=C(C=C3)S(=O)(=O)N)C(F)(F)F,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299cb0>
+157,158,Celiprolol,,,56980-93-9,CCN(CC)C(=O)NC1=CC(=C(C=C1)OCC(CNC(C)(C)C)O)C(=O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299d00>
+158,159,Cevimeline,,,153504-70-2,C[C@@H]1O[C@]2(CN3CCC2CC3)CS1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299d50>
+159,160,Chloramben,,5230,133-90-4,C1=C(C=C(C(=C1N)Cl)C(=O)O)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299da0>
+160,161,Chlorambucil,0.896,0.133,0305-03-03,C1=CC(=CC=C1CCCC(=O)O)N(CCCl)CCCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299df0>
+161,162,Chloramphenicol,,,56-75-7,C1=CC(=CC=C1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299e40>
+162,163,Chlordane,,,12789-03-06,C1[C@H]2[C@@H]([C@H]([C@@H]1Cl)Cl)[C@@]3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299e90>
+163,164,Chlorendic acid ,40.8,141,115-28-6,[C@@H]1([C@H]([C@@]2(C(=C([C@]1(C2(Cl)Cl)Cl)Cl)Cl)Cl)C(=O)O)C(=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299ee0>
+164,165,Chlorinated paraffins,222,113,63449-39-8,CCC(CCC(C(CC(C(C(CCl)Cl)Cl)Cl)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299f30>
+165,166,"2,5,8,11,14,17,20-heptachlorotricosane",,,1005111-49-8,CCCC(CCC(CCC(CCC(CCC(CCC(CCC(C)Cl)Cl)Cl)Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587299f80>
+166,167,"2,5,8,11,14,17,20-heptachlorotricosane",37.6,346,101-79-1,C1=CC(=CC=C1N)OC2=CC=C(C=C2)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587279260>
+167,168,3-Chloro-4-(dichlo romethyl)-5-hydroxy-2(5H)-furanone,0.583,,77439-76-0,C1(C(=C(C(=O)O1)Cl)C(Cl)Cl)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587279940>
+168,169,"2-Chloro-5-(3,5-di methylpiperidinosu lphonyl)benzoic acid",4.85,,37087-94-8,C[C@@H]1C[C@@H](CN(C1)S(=O)(=O)C2=CC(=C(C=C2)Cl)C(=O)O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587279210>
+169,170,"1-Chloro-2,4-dinitrobenzene",,,97-00-7,C1=CC(=C(C=C1[N+](=O)[O-])[N+](=O)[O-])Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b030>
+170,171,3-Chloro-2-methylpropene,,1000,563-47-3,CC(=C)CCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b080>
+171,172,1-Chloro-2-nitrobenzene,,157,88-73-3,C1=CC=C(C(=C1)[N+](=O)[O-])Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b0d0>
+172,173,1-Chloro-4-nitrobenzene,,473,100-00-5,C1=CC(=CC=C1[N+](=O)[O-])Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b120>
+173,174,4-Chloro-m-phenylenediamine,315,1230,5131-60-2,C1=CC(=C(C=C1N)N)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b170>
+174,175,4-Chloro-o-phenylenediamine,214,1340,95-83-0,C1=CC(=C(C=C1Cl)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b1c0>
+175,176,2-Chloro-p-phenylenediamine,,,61702-44-1,C1=CC(=C(C=C1N)Cl)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b210>
+176,177,1-Chloro-2-propanol,,,127-00-4,CC(CCl)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b260>
+177,178,3-Chloro-p-toluidine,,,95-74-9,CC1=C(C=C(C=C1)N)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b2b0>
+178,179,5-Chloro-o-toluidine,,195,95-79-4,CC1=C(C=C(C=C1)Cl)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b3a0>
+179,180,4-Chloro-o-toluidine,,25.8,3165-93-3,CC1=C(C=CC(=C1)Cl)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b3f0>
+180,181,"[4-Chloro-6-(2,3-x ylidino)-2-pyrimidinylthio]acetic acid",4.36,10.8,50892-23-4,CC1=C(C(=CC=C1)NC2=CC(=NC(=N2)SCC(=O)O)Cl)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b440>
+181,182,"4-Chloro-6-(2,3-xy lidino)-2-pyrimidin ylthio(N-beta-hydroxyethyl)acetamide",6.49,44.6,65089-17-0,CC1=C(C(=CC=C1)NC2=CC(=NC(=N2)SCC(=O)NCCO)Cl)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b490>
+182,183,2-Chloroacetophenone,,,532-27-4,C1=CC=C(C=C1)C(=O)CCl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b4e0>
+183,184,4'-(Chloroacetyl)-acetanilide,,,140-49-8,CC(=O)NC1=CC=C(C=C1)C(=O)CCl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b530>
+184,185,O-Chlorobenzalmalonitrile,,,2698-41-1,C1=CC=C(C(=C1)C=C(C#N)C#N)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b580>
+185,186,Chlorobenzene,247,,108-90-7,C1=CC=C(C=C1)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b5d0>
+186,187,Chlorobenzilate,,93.9,510-15-6,CCOC(=O)C(C1=CC=C(C=C1)Cl)(C2=CC=C(C=C2)Cl)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b6c0>
+187,188,(2-Chloroethyl)tri methylammoniumchloride,,,999-81-5,C[N+](C)(C)CCCl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b760>
+188,189,1-Chloroethylnitro so-3-(2-hydroxypropyl) urea,0.124,,NOCAS,CC(CNC(=O)N(C(C)Cl)N=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b7b0>
+189,190,2-(Chloromethyl)pyridine,,,6959-47-3,C1=CC=NC(=C1)CCl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b800>
+190,191,3-(Chloromethyl)pyridine,433,229,6959-48-4,C1=CC(=CN=C1)CCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b850>
+191,192,"3-(p-Chlorophenyl)-1,1-dimethylurea",131,,150-68-5,CN(C)C(=O)NC1=CC=C(C=C1)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b8a0>
+193,194,1-(4-Chlorophenyl)-1-phenyl-2-propy nyl carbamate,8.78,,10473-70-8,C#CC(C1=CC=CC=C1)(C2=CC=C(C=C2)Cl)OC(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b8f0>
+194,195,"p-Chlorophenyl-2, 4,5-trichlorophenylsulfide",,,2227-13-6,C1=CC(=CC=C1SC2=CC(=C(C=C2Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729b940>
+195,196,Chloropicrin,I,,1976-06-02,C(#N)C1=C(C(=C(C(=C1Cl)Cl)Cl)C#N)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729ba30>
+196,197,"1-(2-chloroethyl)-1-nitroso-3-[(2S,3R,4R,5S,6R)-2,4,5-trihydroxy-6-(hydrox
+ymethyl)oxan-3-yl] urea",,,NOCAS,C(CCl)N(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O)CO)O)O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729ba80>
+197,198,Chlorpheniramine,,,113-92-8,C[NH+](C)CCC(C1=CC=C(C=C1)Cl)C2=CC=CC=N2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bad0>
+198,199,Chlorpropamide,,,94-20-2,CCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bb20>
+199,200,Choline chloride ,,,67-48-1,C[N+](C)(C)CCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bb70>
+200,201,Chrysazin,245,201,0117-10-02,C1=CC2=C(C(=C1)O)C(=O)C3=C(C2=O)C=CC=C3O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bbc0>
+201,202,Cimetidine,,,51481-61-9,CC1=C(N=CN1)CSCCNC(=NC)NC#N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bc10>
+202,203,Trans-Cinnamaldehyde,,,14371-10-09,C1=CC=C(C=C1)/C=C/C=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bd50>
+203,204,Cinnamyl anthranilate,12100,2580,87-29-6,"C1=CC=C(C=C1)/C=C/COC(=O)C2=CC=CC=C2
+N",Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bda0>
+204,205,Ciprofibrate,1.97,6.2,52214-84-3,CC(C)(C(=O)O)OC1=CC=C(C=C1)C2CC2(Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729be40>
+205,206,Citral,,,5392-40-5,CC(=CCC/C(=C/C=O)/C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bf30>
+206,207,Citric acid ,,,77-92-9,C(C(=O)O)C(CC(=O)O)(C(=O)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729bf80>
+207,208,Citrinin,7.48,,518-75-2,C[C@H]1[C@@H](OC=C2C1=C(C(=C(C2=O)C(=O)O)O)C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292030>
+209,210,Clobuzarit,,154,22494-47-9,CC(C)(C(=O)O)OCC1=CC=C(C=C1)C2=CC=C(C=C2)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292080>
+210,211,Clofibrate,169,,637-07-0,CCOC(=O)C(C)(C)OC1=CC=C(C=C1)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872920d0>
+212,213,Clophen A 30 ,157,,55600-34-5,C1=CC(=CC(=C1)Cl)C2=CC(=CC=C2)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292210>
+217,218,Coumarin,39.2,103,91-64-5,C1=CC=C2C(=C1)C=CC(=O)O2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872923f0>
+218,219,m-Cresidine,470,,102-50-1,CC1=C(C=CC(=C1)OC)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292440>
+219,220,p-Cresidine,98,54.3,120-71-8,CC1=CC(=C(C=C1)OC)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292490>
+220,221,Crotonaldehyde,4.2,,123-73-9,C/C=C/C=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872924e0>
+221,222,Cupferron,8.35,585,135-20-6,C1=CC=C(C=C1)N(N=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292530>
+222,223,Cyanamide,,,156-62-7,CCNC1=NC(=NC(=N1)Cl)NC(C)(C)C#N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292580>
+223,224,Cyclamate,,667,0139-05-09,C1CCC(CC1)NS(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872925d0>
+224,225,Cyclocytidine,,,31698-14-3,C1=CN2[C@H]3[C@H]([C@@H]([C@H](O3)CO)O)OC2=NC1=N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292620>
+225,226,Cyclohexanone,,,108-94-1,C1CCC(=O)CC1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292670>
+226,227,Cyclohexylamine,,,4998-76-9,C1CCC(CC1)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872926c0>
+227,228,Cyclopentanone oxime,40.9,,1192-28-5,C1CCC(=NO)C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292710>
+228,229,"3-(Cyclopentyloxy)-N-(3,5-di­chloro-4-pyridyl)-4-methoxy­benzamide",1.54,,144035-83-6,COC1=C(C=C(C=C1)C(=O)NC2=C(C=NC=C2Cl)Cl)OC3CCCC3,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292760>
+229,230,Cyclophosphamide,2.21,5.96,50-18-0,C1CNP(=O)(OC1)N(CCCl)CCCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872927b0>
+230,231,l-Cysteine,,,52-89-1,C([C@@H](C(=O)O)N)S,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292800>
+231,232,Cytembena,2.77,,16170-75-5,COC1=CC=C(C=C1)C(=O)/C(=C\C(=O)[O-])/Br,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292850>
+232,233,Dacarbazine,0.71,0.996,4342-03-04,CN(C)N/N=C\1/C(=NC=N1)C(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872928a0>
+233,234,Daminozide,2500,1030,1596-84-5,CN(C)NC(=O)CCC(=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872928f0>
+234,235,Dapsone,22.4,,80-08-0,C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292940>
+235,236,"p,p'-DDD",,30.7,72-54-8,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292990>
+236,237,"p,p'-DDE",,12.5,72-55-9,C1=CC(=CC=C1C(=C(Cl)Cl)C2=CC=C(C=C2)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872929e0>
+237,238,DDT,84.7,12.8,50-29-3,C1=CC(=CC=C1C(C2=CC=C(C=C2)Cl)C(Cl)(Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292a30>
+239,240,Dehydroepiandrosterone,83.5,,53-43-0,C[C@]12CC[C@H]3[C@H]([C@@H]1CCC2=O)CC=C4[C@@]3(CC[C@@H](C4)O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292a80>
+240,241,Dehydroepiandrosterone acetate,49.6,,853-23-6,CC(=O)O[C@H]1CC[C@@]2([C@H]3CC[C@]4([C@H]([C@@H]3CC=C2C1)CCC4=O)C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292ad0>
+241,242,Deltamethrin,,,52918-63-5,CC1([C@H]([C@H]1C(=O)O[C@H](C#N)C2=CC(=CC=C2)OC3=CC=CC=C3)C=C(Br)Br)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292b20>
+244,245,N-1-Diacetamidofluorene,19,,63019-65-8,CC(=O)N(C1=CC=CC2=C1CC3=CC=CC=C32)C(=O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292b70>
+245,246,Diallyl phthalate ,,,131-17-9,C=CCOC(=O)C1=CC=CC=C1C(=O)OCC=C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292bc0>
+246,247,Diallylnitrosamine,33.9,,16338-97-9,C=CCN(CC=C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292c10>
+247,248,"4,6-Diamino-2-(5- nitro-2-furyl)-S-triazine",1.71,,720-69-4,C1=C(OC(=C1)[N+](=O)[O-])C2=NC(=NC(=N2)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292cb0>
+248,249,"4,4'-Diamino-2,2'-stilbenedisulfonic acid",,,7336-20-1,C1=CC(=C(C=C1N)S(=O)(=O)[O-])/C=C/C2=C(C=C(C=C2)N)S(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292d00>
+249,250,"2,4-Diaminoanisole sulfate",189,906,39156-41-7,COC1=C(C=C(C=C1)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292d50>
+250,251,"2,4-Diaminophenol",,143,0137-09-07,C1=CC(=C(C=C1N)N)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292da0>
+251,252,"2,4-Diaminotoluene",2.47,26.7,95-80-7,CC1=C(C=C(C=C1)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292df0>
+252,253,"2,6-Diaminotoluene HCl",,,15481-70-6,CC1=C(C=CC=C1N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292e40>
+253,254,"2,5-Diaminotoluene sulfate",,,6369-59-1,CC1=C(C=CC(=C1)N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292e90>
+254,255,Diazepam,,,439-14-5,CN1C(=O)CN=C(C2=C1C=CC(=C2)Cl)C3=CC=CC=C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292ee0>
+255,256,Diazinon,,,333-41-5,CCOP(=S)(OCC)OC1=NC(=NC(=C1)C)C(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292f30>
+256,257,3-Diazotyramine,,,NOCAS,C1=CC(=C(C=C1CCN)[N+]#N)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587292f80>
+257,258,Dibenzo-p-dioxin,,,0262-12-04,C1=CC=C2C(=C1)OC3=CC=CC=C3O2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b030>
+258,259,3-Dibenzofuranamine,2.48,,4106-66-5,C1=CC=C2C(=C1)C3=C(O2)C=C(C=C3)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b080>
+259,260,"O,S-Dibenzoylthiamine Hcl",,,35660-60-7,CC1=NC=C(C(=N1)N)CN(C=O)/C(=C(/CCOC(=O)C2=CC=CC=C2)\SC(=O)C3=CC=CC=C3)/C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b0d0>
+260,261,"1,2-Dibromo-3-chloropropane",0.259,2.72,1996-12-08,C(C(CBr)Br)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b120>
+261,262,Dibromodulcitol,8.37,11,10318-26-0,C([C@H]([C@@H]([C@@H]([C@H](CBr)O)O)O)O)Br,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b170>
+262,263,Dibromomannitol,27.6,14.9,488-41-5,C([C@@H]([C@H]([C@@H]([C@H](CBr)O)O)O)O)Br,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b1c0>
+263,264,"5,7-Dibromoquinoline",,,34522-69-5,C1=CC2=C(C=C(C=C2N=C1)Br)Br,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b210>
+264,265,"1,3-Dibutyl-1-nitrosourea",4.28,,56654-52-5,CCCCNC(=O)N(CCCC)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b260>
+265,266,Dibutyltin diacetate,,,1067-33-0,CCCC[Sn](CCCC)(OC(=O)C)OC(=O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b2b0>
+266,267,"2,6-Dichloro-p-phenylenediamine",,803,609-20-1,C1=C(C=C(C(=C1Cl)N)Cl)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b300>
+267,268,"1,2-Dichlorobenzene",,,95-50-1,C1=CC=C(C(=C1)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b350>
+268,269,"1,4-Dichlorobenzene",644,323,106-46-7,C1=CC(=CC=C1Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b3a0>
+269,270,"3,3'-Dichlorobenzidine",28.1,,91-94-1,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)Cl)Cl)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b3f0>
+270,271,"trans-1,4-Dichlorobutene-2",,1.52,110-57-6,C(/C=C/CCl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b440>
+271,272,"2,7-Dichlorodibenzo-p-dioxin",,,33857-26-0,C1=CC2=C(C=C1Cl)OC3=C(O2)C=C(C=C3)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b490>
+272,273,"p,p'-Dichlorodiphenyl sulfone ",,,1980-07-09,C1=CC(=CC=C1S(=O)(=O)C2=CC=C(C=C2)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b4e0>
+273,274,"2,4-Dichlorophenol",,,120-83-2,C1=CC(=C(C=C1Cl)Cl)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b530>
+274,275,"2,4-Dichlorophenoxyacetic acid",,,94-75-7,C1=CC(=C(C=C1Cl)Cl)OCC(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b580>
+275,276,"2,4-Dichlorophenoxyacetic acid, n-butyl ester",,,94-80-4,CC(CCl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b5d0>
+276,277,Dichlorvos,4.16,70.4,62-73-7,COP(=O)(OC)OC=C(Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b620>
+278,279,"N,N'-Dicyclohexyl thiourea",,,1212-29-9,C1CCC(CC1)NC(=S)NC2CCCCC2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b6c0>
+279,280,Dicyclopentadiene dioxide,,,81-21-0,C1C2C3CC4C(C3C1C5C2O5)O4,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b710>
+280,281,Dieldrin s,,0.912,60-57-1,C1[C@@H]2[C@H]3[C@@H]([C@H]1[C@H]4[C@@H]2O4)[C@]5(C(=C([C@@]3(C5(Cl)Cl)Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b760>
+281,282,"Dieldrin, photo- ",,,13366-73-9,C12C3C(C4C1C5(C(C3(C4(C5(Cl)Cl)Cl)Cl)Cl)Cl)C6C2O6,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b7b0>
+282,283,"d,l-Diepoxybutane",,,298-18-0,C1C(O1)C2CO2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b800>
+283,284,"N,N-Diethyl-4-(4'- [pyridyl-1'-oxide]azo)aniline",1.63,,7347-49-1,CCN(CC)C1=CC=C(C=C1)N=NC2=CC=[N+](C=C2)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b850>
+284,285,"N,N-Diethyl-m-tol uamide ",,,134-62-3,CCN(CC)C(=O)C1=CC(=CC=C1)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b8a0>
+285,286,"O,O-Diethyl-O-(3, 5,6-trichloro-2-pyri dyl)phosphorothiolate",,,2921-88-2,CCOP(=S)(OCC)OC1=NC(=C(C=C1Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b8f0>
+286,287,Diethylacetamide,8.85,,685-91-6,CCN(CC)C(=O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b940>
+287,288,Diethylacetylurea,,,NOCAS,CCC(CC)C(=O)NC(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728b990>
+288,289,"(+-)-4-diethylamin o-1,1-dimethylbut- 2-yn-1-yl2-cyclohexyl-2-hy droxy-2-phenylacetate",,,NOCAS,CCN(CC)CC#CC(C)(C)OC(=O)C(C1CCCCC1)(C2=CC=CC=C2)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ba30>
+289,290,Diethylene glycol ,1660,,111-46-6,C(COCCO)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ba80>
+290,291,Diethylformamide,,,617-84-5,CCN(CC)C=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bad0>
+291,292,Diethylmaleate,,,0141-05-09,CCOC(=O)/C=C\C(=O)OCC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bb20>
+293,294,"N,N'-Diethylthiourea",24,,105-55-5,CCNC(=S)NCC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bc10>
+294,295,2-(Difluoromethyl)-dl-ornithine,,,4516-12-09,C(CC(C(F)F)(C(=O)O)N)CN,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bc60>
+295,296,Diglycidyl resorcinol ether ,,,101-90-6,C1C(O1)COC2=CC(=CC=C2)OCC3CO3,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bcb0>
+296,297,"5,6-Dihydro-5-azacytidine",,,62488-57-7,C1N=C(NC(=O)N1[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bd00>
+297,298,"1,2-Dihydro-2-(5-n itro-2-thienyl) quinazolin-4(3H)-one",1.53,,33389-33-2,C1=CC=C2C(=C1)C(=O)NC(N2)C3=CC=C(S3)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bd50>
+298,299,"3,6-Dihydro-2-nitr oso-2H-1,2-oxazine",90.6,,3276-41-3,C1C=CCON1N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bda0>
+299,300,"3,4-Dihydrocoumarin",2970,723,119-84-6,C1CC(=O)OC2=CC=CC=C21,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bdf0>
+300,301,Dihydrosafrole,143,125,94-58-6,CCCC1=CC2=C(C=C1)OCO2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728be40>
+302,303,Diisononyl phthalate,861,1850,68515-48-0,CC(C)CCCCCCOC(=O)C1=CC=CC=C1C(=O)OCCCCCCC(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728be90>
+303,304,"(R,R)-Dilevalol",,,75659-08-4,C[C@H](CCC1=CC=CC=C1)NC[C@@H](C2=CC(=C(C=C2)O)C(=O)N)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bee0>
+304,305,Dimethadione,,,695-53-4,CC1(C(=O)NC(=O)O1)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bf30>
+305,306,Dimethoate,,,60-51-5,CNC(=O)CSP(=S)(OC)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728bf80>
+306,307,"2,5-Dimethoxy-4'-aminostilbene",0.721,95.9,5803-51-0,COC1=CC(=C(C=C1)OC)/C=C/C2=CC=C(C=C2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0030>
+307,308,"2,4-Dimethoxyaniline",,,54150-69-5,COC1=CC(=C(C=C1)N)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0080>
+308,309,"3,3'-Dimethoxybenzidine-4,4'-diisocy anate",1630,,91-93-0,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N=C=O)OC)N=C=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a00d0>
+309,310,"3,3'-Dimethoxybenzidine",1.04,73.8,20325-40-0,COC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)OC)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0120>
+310,311,"5,7-Dimethoxycycl opentene[c]coumarin",,,1146-71-0,COC1=CC(=C2C3=C(CCC3)C(=O)OC2=C1)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0170>
+311,312,"5,7-Dimethoxycyclopentenone[2,3-c]c oumarin",,,1150-37-4,COC1=CC(=C2C(=C1)OC(=O)C3=C2C(=O)CC3)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a01c0>
+312,313,"5,7-Dimethoxycyclopentenone[3,2-c] coumarin",,,1150-42-1,COC1=CC(=C2C3=C(C(=O)CC3)C(=O)OC2=C1)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0210>
+313,314,"5,6-Dimethoxysterigmatocystin",0.364,,65176-75-2,COC1=C(C2=C(C(=C1)O)C(=O)C3=C(C=C4C(=C3O2)C5C=COC5O4)OC)OC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0260>
+314,315,"O,O-DimethylS-2(acetylamino)et hyl dithiophosphate",,,13265-60-6,CC(=O)NCCSP(=S)(OC)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a02b0>
+315,316,"N,N-Dimethyl-4-aminoazobenzene",3.31,,60-11-7,CN(C)C1=CC=C(C=C1)N=NC2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0300>
+316,317,"N,N'-Dimethyl-N,N'-dinitrosophthala mide",,,3851-16-9,CN(C(=O)C1=CC=CC=C1C(=O)N(C)N=O)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0350>
+317,318,Dimethylmethylphosphonate,700,,756-79-6,COP(=O)(C)OC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a03a0>
+318,319,Dimethyl morpholinophosphoramidate,614,,597-25-1,COP(=O)(N1CCOCC1)OC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a03f0>
+319,320,"4,6-Dimethyl-2-(5- nitro-2-furyl)pyrimidine",1.39,,59-35-8,CC1=CC(=NC(=N1)C2=CC=C(O2)[N+](=O)[O-])C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0440>
+320,321,"1,2-Dimethyl-5-nitroimidazole",17,,551-92-8,CC1=NC=C(N1C)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0490>
+321,322,Dimethyl terephthalate,,,120-61-6,COC(=O)C1=CC=C(C=C1)C(=O)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a04e0>
+322,323,Dimethylacetamide,,,127-19-5,CC(=O)N(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0580>
+323,324,"6-Dimethylamino- 4,4-diphenyl-3-heptanolacetate",68,,43033-72-3,CC[C@@H](C(C[C@H](C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2)OC(=O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a05d0>
+324,325,"6-Dimethylamino-4,4-diphenyl-3-hep tanone",,,1095-90-5,CCC(=O)C(CC(C)N(C)C)(C1=CC=CC=C1)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0620>
+325,326,"trans-2-[(Dimethyl amino)methylimin o]-5-[2-(5-nitro-2-f uryl)vinyl]-1,3,4-oxadiazole",22.4,,55738-54-0,CN(C)CNC1=NN=C(O1)/C=C/C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0670>
+326,327,"Dimethylaminoeth ylnitrosoethylurea,nitrite salt",0.704,,142713-78-8,CC[NH2+]C(=O)N(CCN(C)C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a06c0>
+327,328,"2,6-Dimethylanilin e",,,87-62-7,CC1=C(C(=CC=C1)C)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0710>
+328,329,"N,N-Dimethylaniline",125,,121-69-7,CN(C)C1=CC=CC=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0760>
+329,330,Dimethylarsinic acid,11.4,,75-60-5,CC1(C(=O)NC(=O)NC1=O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a07b0>
+330,331,"3,3'-Dimethylbenzidine",0.629,28.6,612-82-8,CC1=C(C=CC(=C1)C2=CC(=C(C=C2)N)C)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0800>
+331,332,"N,N-Dimethyldodecylamine-N-oxide",,,1643-20-5,CCCCCCCCCCCC[N+](C)(C)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0850>
+332,333,Dimethylformamide,,,1968-12-02,CN(C)C=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a08a0>
+333,334,"2-(2,2-Dimethylhy drazino)-4-(5-nitro-2-furyl)thiazole",0.41,,26049-69-4,CN(C)NC1=NC(=CS1)C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a08f0>
+334,335,"1,3-Dimethylthiourea",,,534-13-4,CNC(=S)NC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0940>
+335,336,Dimethylvinyl chloride,31.8,14.9,513-37-1,CC(=CCl)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0990>
+336,337,"2,4-Dinitro-6-tert-b utylphenylmethane sulfonate",,,29110-68-7,CC(C)(C)C1=CC(=CC(=C1OS(=O)(=O)C)[N+](=O)[O-])[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a09e0>
+337,338,Dinitrosocaffeidine,0.183,,145438-97-7,CN1C=NC(=C1C(=O)N(C)N=O)N(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0a30>
+338,339,Dinitrosohomopiperazine,0.0615,,55557-00-1,C1CN(CCN(C1)N=O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0a80>
+339,340,"N,N-Dinitrosopent amethylenetetramine",,,101-25-7,C1N2CN(CN1CN(C2)N=O)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0ad0>
+340,341,"2,6-Dinitrotoluene",0.292,,606-20-2,CC1=C(C=CC=C1[N+](=O)[O-])[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0b20>
+341,342,"1,4-Dioxane",267,204,123-91-1,C1COCCO1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0b70>
+342,343,Dioxathion,,,78-34-2,CCOP(=S)(OCC)SC1C(OCCO1)SP(=S)(OCC)OCC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0bc0>
+343,344,Dipentylnitrosamine,4.03,,13256-06-09,CCCCCN(CCCCC)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0c10>
+344,345,Diphenhydramine,,,147-24-0,CN(C)CCOC(C1=CC=CC=C1)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0c60>
+345,346,Diphenyl-p-phenylenediamine,,,74-31-7,C1=CC=C(C=C1)NC2=CC=C(C=C2)NC3=CC=CC=C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0cb0>
+346,347,"5,5-Diphenylhydantoin",,59.1,57-41-0,C1=CC=C(C=C1)C2(C(=O)NC(=O)N2)C3=CC=CC=C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0d00>
+347,348,"N,N-Dipropyl-4-(4'-[pyridyl-1'-oxide] azo)aniline",,,NOCAS,CCCN(CCC)C1=CC=C(C=C1)N=NC2=CC=[N+](C=C2)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0d50>
+348,349,Dipropylene glycol ,,,25265-71-8,CCC(O)OC(CC)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0da0>
+349,350,Dipyrone,,630,68-89-3,CC1=C(C(=O)N(N1C)C2=CC=CC=C2)N(C)CS(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0df0>
+350,351,Disodium 5´-ribonucleotide,,,80702-47-2,C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)([O-])[O-])O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0e40>
+351,352,3-O-DodecylcarboMethylascorbic acid,,,NOCAS,CCCCCCCCCCCCC(=O)COC1=C(C(=O)O[C@@H]1[C@H](CO)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0e90>
+352,353,dl-Dopa,,,63-84-3,C1=CC(=C(C=C1CC(C(=O)O)N)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0ee0>
+353,354,Dopamine,,,62-31-7,C1=CC(=C(C=C1CCN)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0f30>
+354,355,Doxefazepam,,,40762-15-0,C1=CC=C(C(=C1)C2=NC(C(=O)N(C3=C2C=C(C=C3)Cl)CCO)O)F,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872a0f80>
+355,356,Doxylamine succinate,1610,209,0562-10-07,CC(C1=CC=CC=C1)(C2=CC=CC=N2)OCCN(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227990>
+356,357,EDTA,,,150-38-9,C(CN(CC(=O)[O-])CC(=O)[O-])N(CC(=O)O)CC(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227030>
+358,359,Ellagic acid ,,,476-66-4,C1=C2C3=C(C(=C1O)O)OC(=O)C4=CC(=C(C(=C43)OC2=O)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227080>
+359,360,Emodin,,,518-82-1,CC1=CC(=C2C(=C1)C(=O)C3=CC(=CC(=C3C2=O)O)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872270d0>
+360,361,Endosulfan,,,115-29-7,C1C2C(COS(=O)O1)C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227120>
+361,362,Endrin,,,72-20-8,C1[C@@H]2[C@@H]3[C@H]([C@H]1[C@H]4[C@@H]2O4)[C@@]5(C(=C([C@]3(C5(Cl)Cl)Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227210>
+362,363,Ephedrine,,,134-72-5,C[C@@H]([C@@H](C1=CC=CC=C1)O)NC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227260>
+363,364,Epichlorohydrin,2.96,,106-89-8,C1C(O1)CCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872272b0>
+364,365,"1,2-Epoxybutane",220,,106-88-7,CCC1CO1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227300>
+365,366,Erythorbate,,,6381-77-7,C([C@H]([C@@H]1C(=C(C(=O)O1)O)O)O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227350>
+367,368,Estazolam,,,29975-16-4,C1C2=NN=CN2C3=C(C=C(C=C3)Cl)C(=N1)C4=CC=CC=C4,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872273a0>
+369,370,Ethinyl estradiol ,0.2,,57-63-6,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C#C)O)CCC4=C3C=CC(=C4)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872273f0>
+370,371,Ethionamide,,,536-33-4,CCC1=NC=CC(=C1)C(=S)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587227670>
+371,372,Ethionine,4.97,,13073-35-3,CCSCC[C@@H](C(=O)O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872263a0>
+372,373,dl-Ethionine,9.76,71.4,67-21-0,CCSCCC(C(=O)O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587226ee0>
+373,374,4-Ethoxy-phenylurea,537,,150-69-6,CCOC1=CC=C(C=C1)NC(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587226c60>
+374,375,Ethoxyquin,,,91-53-2,CCOC1=CC2=C(C=C1)NC(C=C2C)(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587226350>
+375,376,Ethyl acrylate ,119,324,140-88-5,CCOC(=O)C=C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587226f80>
+376,377,"Z-Ethyl-O,N,N-azoxyethane",0.022,,16301-26-1,CCN=[N+](CC)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587226df0>
+377,378,"Z-Ethyl-O,N,N-azoxymethane",0.0189,,57497-29-7,CC[N+](=NC)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3440>
+378,379,S-Ethyl-l-cysteine,,,2629-59-6,CCSC[C@@H](C(=O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e33a0>
+379,380,"p,p'-Ethyl-DDD",,,72-56-0,CCC1=CC=C(C=C1)C(C2=CC=C(C=C2)CC)C(Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e31c0>
+380,381,Ethyl methylphenylglyci date,,,77-83-8,CCOC(=O)C1C(O1)(C)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3350>
+381,382,1-Ethyl-1-nitrosourea,0.948,,759-73-9,CCN(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e33f0>
+382,383,3-O-Ethylascorbic acid,,,20868-04-08,CCOC1=C(C(=O)O[C@@H]1[C@H](CO)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e34e0>
+383,384,Ethylbenzene,72.6,1600,100-41-4,CCC1=CC=CC=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3530>
+384,385,Ethylene thiourea ,,,96-45-7,C1CNC(=S)N1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3580>
+385,386,"1-Ethyleneoxy-3,4-epoxycyclohexane",,,106-87-6,C1CC2C(O2)CC1C3CO3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3620>
+386,387,2-Ethylhexanol,,1680,104-76-7,CCCCC(CC)CO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3670>
+387,388,di(2-Ethylhexyl)adipate,,3880,103-23-1,CCCCC(CC)COC(=O)CCCCC(=O)OCC(CC)CCCC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e36c0>
+388,389,di(2-Ethylhexyl)phthalate,716,700,117-81-7,CCCCC(CC)COC(=O)C1=CC=CC=C1C(=O)OCC(CC)CCCC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e35d0>
+389,390,1-Ethylnitroso-3-(2-hydroxyethyl)-ure a,0.522,,96724-44-6,CCN(C(=O)NCCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3710>
+390,391,1-Ethylnitroso-3-(2-oxopropyl)-urea,0.181,,110559-84-7,CCN(C(=O)NCC(=O)C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e37b0>
+391,392,Ethylnitrosocyanamide,3.68,,38434-77-4,CCN(C#N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3800>
+392,393,Ethylphenylacetylurea,,,90-49-3,CCC(C1=CC=CC=C1)C(=O)NC(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3760>
+393,394,Ethynodiol diacetate ,,,297-76-7,CC(=O)O[C@H]1CC[C@@H]2[C@H]3CC[C@]4([C@H]([C@@H]3CCC2=C1)CC[C@]4(C#C)OC(=O)C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3850>
+394,395,Etodolac,,,41340-25-4,CCC1=CC=CC2=C1NC3=C2CCOC3(CC)CC(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e38f0>
+395,396,Eugenol,,,97-53-0,COC1=C(C=CC(=C1)CC=C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3940>
+396,397,Fadrozole,,,102676-31-3,C1CC(N2C=NC=C2C1)C3=CC=C(C=C3)C#N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3990>
+397,398,Fenaminosulf,,,140-56-7,CN(C)C1=CC=C(C=C1)N=NS(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e39e0>
+398,399,Fenthion,,,55-38-9,CC1=C(C=CC(=C1)OP(=S)(OC)OC)SC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e38a0>
+399,400,Fenvalerate,,,51630-58-1,CC(C)C(C1=CC=C(C=C1)Cl)C(=O)OC(C#N)C2=CC(=CC=C2)OC3=CC=CC=C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3a30>
+400,401,Flecainide acetate ,,,54143-56-5,C1CCNC(C1)CNC(=O)C2=C(C=CC(=C2)OCC(F)(F)F)OCC(F)(F)F,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3ad0>
+401,402,Fluconazole,80.7,,86386-73-4,C1=CC(=C(C=C1F)F)C(CN2C=NC=N2)(CN3C=NC=N3)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3b20>
+402,403,Fluometuron,,,2164-17-2,CN(C)C(=O)NC1=CC=CC(=C1)C(F)(F)F,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3490>
+403,404,"N-(2-Fluorenyl)-2,2,2-trifluoroacetam ide",1.62,,363-17-7,C1C2=CC=CC=C2C3=C1C=C(C=C3)NC(=O)C(F)(F)F,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3030>
+404,405,N-4-(4'-Fluorobiphenyl)acetamide,1.01,,398-32-3,CC(=O)NC1=CC=C(C=C1)C2=CC=C(C=C2)F,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e30d0>
+405,406,2-Fluoroethyl-nitrosourea,0.125,,69112-98-7,C(CF)N(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3a80>
+406,407,5-Fluorouracil,,2.96,51-21-8,C1=C(C(=O)NC(=O)N1)F,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3b70>
+407,408,Fluoxetine,,,59333-67-4,CNCCC(C1=CC=CC=C1)OC2=CC=C(C=C2)C(F)(F)F,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3bc0>
+408,409,Fluvastatin,125,,93957-54-1,CC(C)N1C2=CC=CC=C2C(=C1/C=C/[C@H](C[C@H](CC(=O)O)O)O)C3=CC=C(C=C3)F,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3c10>
+409,410,Formic acid 2-[4-(2-furyl)-2-thi azolyl]hydrazide,,,31873-81-1,C1=COC(=C1)C2=CSC(=N2)NNC=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3c60>
+410,411,Formic acid 2-(4-methyl-2-thia zolyl)hydrazide,14.4,,32852-21-4,CC1=CSC(=N1)NNC=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3cb0>
+411,412,Formic acid 2-[4-(5-nitro-2-fur yl)-2-thiazolyl]hyd razide,5.06,10.8,3570-75-0,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NNC=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3d00>
+413,414,2-Furaldehyde semicarbazone,,,2411-74-7,C1=COC(=C1)/C=N/NC(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3d50>
+414,415,Furan,0.396,2.72,110-00-9,C1=COC=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3da0>
+415,416,Furfural,683,197,98-01-01,C1=COC(=C1)C=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3df0>
+416,417,Furfuryl alcohol ,9.6,263,98-00-0,C1=COC(=C1)CO,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3e40>
+418,419,Fusarenon-X,,,23255-69-8,CC1=CC2[C@@](C(C1=O)O)([C@]3([C@@H]([C@H](C([C@@]34CO4)O2)O)OC(=O)C)C)CO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3ee0>
+419,420,Gallic acid ,,,149-91-7,C1=C(C=C(C(=C1O)O)O)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3f30>
+420,421,Gemcadiol,,,35449-36-6,CC(C)(CCCCCCC(C)(C)CO)CO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e3f80>
+421,422,Gemfibrozil,247,,25812-30-0,CC1=CC(=C(C=C1)C)OCCCC(C)(C)C(=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224030>
+422,423,Geranyl acetate ,,,NOCAS,CC(=CCC/C(=C/COC(=O)C)/C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224080>
+423,424,Glu-P-1,4.69,5.4,2194-11-04,CC1=CC=CN2C1=NC3=C2N=C(C=C3)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872240d0>
+424,425,Glu-P-2,42.3,16,2194-10-03,C1=CC2=NC3=C(N2C=C1)N=C(C=C3)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224120>
+425,426,Glutaraldehyde,,,111-30-8,C(CC=O)CC=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224170>
+426,427,Glycerol alpha-monochloroh ydrin,,,96-24-2,C(C(CCl)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872241c0>
+427,428,Glycidaldehyde,,,765-34-4,C1C(O1)C=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224210>
+428,429,Glycidol,4.28,34.7,556-52-5,C1C(O1)CO,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224260>
+429,430,Glycyrrhetinic acid ,,,471-53-4,C[C@]12CC[C@](C[C@H]1C3=CC(=O)[C@@H]4[C@]5(CC[C@@H](C([C@@H]5CC[C@]4([C@@]3(CC2)C)C)(C)C)O)C)(C)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872242b0>
+433,434,"1,2,3,7,8,9-Hexachlorodibenzodioxin",,,19408-74-3,C1=C2C(=C(C(=C1Cl)Cl)Cl)OC3=C(C(=C(C=C3O2)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224300>
+434,435,Hematoxylin,1000,,517-28-2,C1C2=CC(=C(C=C2[C@@H]3[C@]1(COC4=C3C=CC(=C4O)O)O)O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224350>
+435,436,Heptachlor,,1.21,76-44-8,C1=CC(C2C1C3(C(=C(C2(C3(Cl)Cl)Cl)Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872243a0>
+436,437,Heptamethyleneimine,,,1121-92-2,C1CCCNCCC1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872243f0>
+437,438,Heptylamine,,,111-68-2,CCCCCCCN,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224440>
+438,439,Hexachlorobenzene,3.86,65.1,118-74-1,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224490>
+439,440,Hexachlorobutadiene,65.8,,87-68-3,C(=C(Cl)Cl)(C(=C(Cl)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872244e0>
+440,441,Hexachlorocyclope ntadiene ,,,77-47-4,C1(=C(C(C(=C1Cl)Cl)(Cl)Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224530>
+441,442,Hexachlorophene,,,70-30-4,C1=C(C(=C(C(=C1Cl)Cl)CC2=C(C(=CC(=C2Cl)Cl)Cl)O)O)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224580>
+442,443,"3-(Hexahydro-4,7- methanoindan-5-yl)-1,1-dimethylurea",,,2163-79-3,C/C=C/C=C/C=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872245d0>
+443,444,Hexamethylenetetramine,,,100-97-0,C1N2CN3CN1CN(C2)C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224620>
+444,445,Hexamethylmelamine,10.2,,531-18-0,C(N(CO)C1=NC(=NC(=N1)N(CO)CO)N(CO)CO)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224670>
+445,446,Hexamethylphosphoramide,0.0344,,680-31-9,CN(C)P(=O)(N(C)C)N(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872246c0>
+446,447,Hexanamide,,1950,0628-02-04,CCCCCC(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224710>
+447,448,Hexane,,30300,110-54-3,CCCCCC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224760>
+448,449,"1-O-Hexyl-2,3,5-tr imethylhydroquinone",,,148081-72-5,CCCCCCOC1=C(C(=C(C(=C1)C)O)C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872247b0>
+449,450,N-Hexylnitrosourea,0.513,,18774-85-1,CCCCCCN(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224800>
+450,451,4-Hexylresorcinol,,,136-77-6,CCCCCCC1=C(C=C(C=C1)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224850>
+451,452,l-Histidine,,,645-35-2,C1=C(NC=N1)C[C@@H](C(=O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872248a0>
+452,453,2-Hydrazino-4-(p-a minophenyl)thiazole,1.03,11.3,26049-71-8,C1=CC(=CC=C1C2=CSC(=N2)NN)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872248f0>
+453,454,"2-Hydrazino-4-(5- nitro-2-furyl)thiazo
+le",3.19,16.4,26049-68-3,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NN,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224940>
+454,455,2-Hydrazino-4-(p- nitrophenyl)thiazole,3.21,10.6,26049-70-7,C1=CC(=CC=C1C2=CSC(=N2)NN)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224990>
+455,456,2-Hydrazino-4-phenylthiazole,,,34176-52-8,C1=CC=C(C=C1)C2=CSC(=N2)NN,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872249e0>
+456,457,Hydrazobenzene,5.59,26,122-66-7,C1=CC=C(C=C1)NNC2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224a30>
+457,458,Hydrochlorothiazide,,,58-93-5,C1NC2=CC(=C(C=C2S(=O)(=O)N1)S(=O)(=O)N)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224a80>
+459,460,Hydroquinone,82.8,225,123-31-9,C1=CC(=CC=C1O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224ad0>
+460,461,4-Acetamido-3-hydroxybiphenyl,,,13347-44-9,CC(=O)NC1=C(C=C(C=C1)C2=CC=CC=C2)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224b20>
+461,462,N-Hydroxy-2-acetylaminofluorene ,0.988,6.23,53-95-2,CC(=O)N(C1=CC2=C(C=C1)C3=CC=CC=C3C2)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224b70>
+462,463,3-Hydroxy-4-aminobiphenyl,,,4363-03-05,C1=CC=C(C=C1)C2=CC(=C(C=C2)N)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224bc0>
+463,464,1-Hydroxyanthraquinone,93.5,,129-43-1,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=CC=C3)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224c10>
+464,465,1-(2-Hydroxyethyl)-3-[(5-nitrofurfury lidene)amino]-2-im idazolidinone,16.7,,5036-03-03,C1CN(C(=O)N1CCO)/N=C/C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224c60>
+465,466,1-(2-Hydroxyethyl)-nitroso-3-ethylur ea,0.562,,96724-45-7,CCNC(=O)N(CCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224cb0>
+466,467,1-(2-Hydroxyethyl)-1-nitrosourea,0.244,0.818,13743-07-02,C(CO)N(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224d00>
+468,469,1-(3-Hydroxypropyl)-1-nitrosourea,0.978,,71752-70-0,C(CN(C(=O)N)N=O)CO,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224df0>
+469,470,8-Hydroxyquinoline,,,148-24-3,C1=CC2=C(C(=C1)O)N=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224e40>
+470,471,1'-Hydroxysafrole,18.4,71.2,5208-87-7,C=CC(C1=CC2=C(C=C1)OCO2)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224e90>
+471,472,Ibuprofen,,,15687-27-1,CC(C)CC1=CC=C(C=C1)C(C)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224ee0>
+472,473,ICRF-159,10.7,23.7,21416-87-5,CC(CN1CC(=O)NC(=O)C1)N2CC(=O)NC(=O)C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224f30>
+473,474,"3-((Imino((2,2,2-tri fluoroethyl)amino) methyl)amino)1H- pyrazole-1-pentamide",1170,565,84545-30-2,C1=CN(N=C1NC(=NCC(F)(F)F)N)CCCCC(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587224f80>
+474,475,"3,3'-Iminobis-1-propanoldimethanesul fonate(ester)",,,3458-22-8,CS(=O)(=O)OCCCNCCCOS(=O)(=O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e030>
+475,476,Iminodiacetic acid ,,,32607-00-4,C(C(=O)O)NCC(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e080>
+478,479, Iodinated glycerol ,101,138,5634-39-9,CC(C1OCC(O1)CO)I,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e170>
+480,481,IQ,0.812,19.6,76180-96-6,CN1C2=C(C3=C(C=C2)N=CC=C3)N=C1N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e210>
+481,482,Irsogladine maleate,,,84504-69-8,C1=CC(=C(C=C1Cl)C2=NC(=NC(=N2)N)N)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e260>
+482,483,Isatidine,0.716,,15503-86-3,C/C=C\1/C[C@H]([C@@](C(=O)OCC2=CC[N+]3([C@H]2[C@@H](CC3)OC1=O)[O-])(CO)O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e2b0>
+483,484,Isobutene,3550,,0115-11-07,CC(=C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e300>
+484,485,Isobutyl nitrite ,54.1,310,542-56-3,CC(C)CON=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e350>
+485,486,N-Isobutyl-N'-nitro-N-nitrosoguanidin e,,,5461-85-8,CC(C)CN(/C(=N/[N+](=O)[O-])/N)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e3a0>
+486,487,Isobutyraldehyde,,,78-84-2,CC(C)C=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e3f0>
+488,489,Isoniazid,150,27.1,54-85-3,C1=CN=CC=C1C(=O)NN,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e4e0>
+489,490,Isophorone,1210,,78-59-1,CC1=CC(=O)CC(C1)(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e530>
+490,491,Isophosphamide,0.739,5.06,3778-73-2,C1CN(P(=O)(OC1)NCCCl)CCCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e580>
+491,492,Isoprene,313,274,78-79-5,CC(=C)C=C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e5d0>
+492,493,Isopropanol,,,67-63-0,CC(C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e620>
+493,494,Isopropyl-N-(3-chl orophenyl)carbamate,,,101-21-3,CC(C)OC(=O)NC1=CC(=CC=C1)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e670>
+494,495,Ivermectin,,,70288-86-7,CC[C@H](C)[C@@H]1[C@H](CC[C@@]2(O1)C[C@@H]3C[C@H](O2)C/C=C(/[C@H]([C@H](/C=C/C=C/4\CO[C@H]5[C@@]4([C@@H](C=C([C@H]5O)C)C(=O)O3)O)C)O[C@H]6C[C@@H]([C@H]([C@@H](O6)C)O[C@H]7C[C@@H]([C@H]([C@@H](O7)C)O)OC)OC)\C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e6c0>
+497,498,Kanechlor 400 ,,,12737-87-0,C1=C(C=C(C=C1Cl)Cl)C2=CC(=CC(=C2)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e760>
+502,503,d-Limonene,204,,5989-27-5,CC1=CC[C@@H](CC1)C(=C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e850>
+504,505,Lofexidine,,,21498-08-08,CC(C1=NCCN1)OC2=C(C=CC=C2Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e8a0>
+506,507,Lornoxicam,,,70374-39-9,CN1C(=C(C2=C(S1(=O)=O)C=C(S2)Cl)O)C(=O)NC3=CC=CC=N3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728e940>
+508,509,Loxtidine,479,,76956-02-0,CN1C(=NC(=N1)CO)NCCCOC2=CC=CC(=C2)CN3CCCCC3,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ea30>
+509,510,Lupitidine,3360,,72716-75-7,CC1=NC=C(C=C1)CC2=CN=C(NC2=O)NCCSCC3=CC=C(O3)CN(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ea80>
+510,511,Malaoxon,,,1634-78-2,CCOC(=O)CC(C(=O)OCC)SP(=O)(OC)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ead0>
+511,512,Malathion,,,121-75-5,CCOC(=O)CC(C(=O)OCC)SP(=S)(OC)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728eb20>
+512,513,Maleic hydrazide ,,,123-33-1,C1=CC(=O)NNC1=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728eb70>
+513,514,Malonaldehyde,122,14.1,24382-04-05,C(=C/[O-])\C=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ebc0>
+514,515,Manganese ethylenebisthiocarb amate,157,,12427-38-2,C(CNC(=S)[S-])NC(=S)[S-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ec10>
+517,518,Mannitol nitrogen mustard,,,576-68-1,C(CCl)NC[C@H]([C@H]([C@@H]([C@@H](CNCCCl)O)O)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ecb0>
+518,519,MeA-alpha-C acetate,6.7,22.2,117831-29-5,CC1=C(N=C2C(=C1)C3=CC=CC=C3N2)[NH3+],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ed00>
+519,520,MeIQx,1.66,24.3,77500-04-0,CC1=CN=C2C=CC3=C(C2=N1)N=C(N3C)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ed50>
+520,521,Melamine,735,,108-78-1,C1(=NC(=NC(=N1)N)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728eda0>
+522,523,Melphalan,0.0938,0.15,148-82-3,C1=CC(=CC=C1C[C@@H](C(=O)O)N)N(CCCl)CCCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ee90>
+523,524,dl-Menthol,,,15356-70-4,CC1CCC(C(C1)O)C(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728eee0>
+525,526,2-Mercaptobenzothiazole ,344,,149-30-4,C1=CC=C2C(=C1)NC(=S)S2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ef30>
+526,527,6-Mercaptopurine,,,50-44-2,C1=NC2=C(N1)C(=S)N=CN2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58728ef80>
+527,528,Metepa,4.46,,57-39-6,CC1CN1P(=O)(N2CC2C)N3CC3C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f030>
+528,529,Methacrylonitrile,,,126-98-7,CC(=C)C#N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f080>
+529,530,Methafurylene,,,0531-06-06,CN(C)CCN(CC1=CC=CO1)C2=CC=CC=N2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f0d0>
+530,531,Methaphenilene,,,493-78-7,CN(C)CCN(CC1=CC=CS1)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f120>
+531,532,Methapyrilene,9.13,,135-23-9,CN(C)CCN(CC1=CC=CS1)C2=CC=CC=N2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f170>
+532,533,Methimazole,1.14,,60-56-0,CN1C=CNC1=S,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f1c0>
+533,534,dl-Methionine,,,59-51-8,CSCCC(C(=O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f210>
+535,536,2-Methoxy-3-aminodibenzofuran,29,,5834-17-3,COC1=C(C=C2C(=C1)C3=CC=CC=C3O2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f260>
+536,537,3-Methoxycatechol,48.7,,934-00-9,COC1=CC=CC(=C1O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f2b0>
+537,538,Methoxychlor,,,72-43-5,COC1=CC=C(C=C1)C(C2=CC=C(C=C2)OC)C(Cl)(Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f300>
+538,539,4-Methoxyphenol,658,,150-76-5,COC1=CC=C(C=C1)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f350>
+539,540,8-Methoxypsoralen,32.4,,298-81-7,COC1=C2C(=CC3=C1OC=C3)C=CC(=O)O2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f3a0>
+540,541,"Z-Methyl-O,N,N-azoxyethane",11.5,,57497-34-4,CCN=[N+](C)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f3f0>
+541,542,Methyl tert-butyl ether,702,6550,1634-04-04,CC(C)(C)OC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f440>
+542,543,2-Methyl-4-chlorophenoxyacetic acid ,,,94-74-6,CC1=C(C=CC(=C1)Cl)OCC(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f490>
+543,544,Methyl clofenapate ,4.78,2.51,21340-68-1,CC(C)(C(=O)OC)OC1=CC=C(C=C1)C2=CC=C(C=C2)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f4e0>
+544,545,3'-Methyl-4-dimethylaminoazobenzen e,3.28,,55-80-1,CC1=CC(=CC=C1)N=NC2=CC=C(C=C2)N(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f530>
+545,546,"N-Methyl-N,4-dinitrosoaniline",1.3,,99-80-9,CN(C1=CC=C(C=C1)N=O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f580>
+546,547,"methyl (9Z,11E)-13-hydroperoxyoctadeca-9, 11-dienoate",,,NOCAS,CCCCCC(/C=C/C=C\CCCCCCCC(=O)OC)OO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f5d0>
+547,548,Methyl linoleate ,,,112-63-0,CCCCC/C=C\C/C=C\CCCCCCCC(=O)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f620>
+548,549,Methyl methacrylate,,,80-62-6,CC(=C)C(=O)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f670>
+549,550,2-Methyl-1-nitroanthraquinone,84.8,1.56,129-15-7,CC1=C(C2=C(C=C1)C(=O)C3=CC=CC=C3C2=O)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f6c0>
+550,551,4-Methyl-1-[(5-nitrofurfurylidene)amino]-2-imidazolidin one,5.34,,21638-36-8,CC1CN(C(=O)N1)/N=C/C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f710>
+552,553,N-Methyl-N-nitrosobenzamide,3.23,,63412-06-6,CN(C(=O)C1=CC=CC=C1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f7b0>
+553,554,N-(N-Methyl-N-nit rosocarbamoyl)-l-ornithine,0.787,,63642-17-1,CN(C(=O)NCCC[C@@H](C(=O)O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f800>
+554,555,R(-)-2-Methyl-N-nitrosopiperidine,20.4,,14026-03-0,C[C@@H]1CCCCN1N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f850>
+555,556,S(+)-2-Methyl-N-nitrosopiperidine,13.2,,36702-44-0,C[C@H]1CCCCN1N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f8a0>
+556,557,Methyl parathion ,,,298-00-0,COP(=S)(OC)OC1=CC=C(C=C1)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f8f0>
+557,558,N-Methyl-2-pyrrolidone,,,872-50-4,CN1CCCC1=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f940>
+558,559,Alpha-Methylbenzyl alcohol,458,,98-85-1,CC(C1=CC=CC=C1)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f990>
+559,560,4-Methylcatechol,248,,452-86-8,CC1=CC(=C(C=C1)O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729f9e0>
+560,561,3-Methylcholanthrene,0.491,,56-49-5,CC1=C2CCC3=C2C(=CC4=C3C=CC5=CC=CC=C54)C=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fa30>
+561,562,Alpha-Methyldopasesquihydrate,,,41372-08-1,C[C@](CC1=CC(=C(C=C1)O)O)(C(=O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fa80>
+562,563,"N-Methyldopamin e,O,O'-diisobutyroylester",,,75011-65-3,CC(C)C(=O)OC1=C(C=C(C=C1)CCNC)OC(=O)C(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fad0>
+563,564,"4,4'-Methylene-bis(2-methylaniline)",7.38,,838-88-0,CC1=C(C=CC(=C1)CC2=CC(=C(C=C2)N)C)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fb20>
+564,565,"4,4'-Methylenebis( N,N-dimethyl) benzenamine",16.4,207,101-61-1,CN(C)C1=CC=C(C=C1)CC2=CC=C(C=C2)N(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fb70>
+565,566,"2,2'-Methylenebis(4-methyl-6-tert-but ylphenol)",,,119-47-1,CC1=CC(=C(C(=C1)C(C)(C)C)O)CC2=C(C(=CC(=C2)C)C(C)(C)C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fbc0>
+566,567,"4,4'-Methylenedianiline",20,32.4,13552-44-8,C1=CC(=CC=C1CC2=CC=C(C=C2)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fc10>
+567,568,Methylethylketoxime,74.5,534,96-29-7,CC/C(=N/O)/C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fc60>
+568,569,Methylguanidine,,,471-29-4,COC1=C(C=C(C=C1)CC=C)OC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fcb0>
+569,570,7-Methylguanine,,,578-76-7,CN1C=NC2=C1C(=O)N=C(N2)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fd00>
+570,571,Methylhydroquino ne,,,95-71-6,CC1=C(C=CC(=C1)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fd50>
+571,572,2-Methylimidazole,868,782,693-98-1,CC1=NC=CN1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fda0>
+572,573,4-(Methylnitrosami no)-1-(3-pyridyl)-1-butanol,0.103,,76014-81-8,CN(CCCC(C1=CN=CC=C1)O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fdf0>
+573,574,4-(Methylnitrosami no)-1-(3-pyridyl)-1-(butanone),0.0999,,64091-91-4,CN(CCCC(=O)C1=CN=CC=C1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fe40>
+574,575,N-Methylolacrylamide,,26.6,924-42-5,C=CC(=O)NCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fe90>
+575,576,Methylphenidate,,100,298-59-9,COC(=O)C(C1CCCCN1)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729fee0>
+576,577,6-Methylquinoline,,,91-62-3,CC1=CC2=C(C=C1)N=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729ff30>
+577,578,8-Methylquinoline,,,611-32-5,CC1=CC=CC2=C1N=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb58729ff80>
+578,579,Metiapine,,,5800-19-1,CC1=CC2=C(C=C1)SC3=CC=CC=C3N=C2N4CCN(CC4)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6030>
+579,580,Metronidazole,542,506,443-48-1,CC1=NC=C(N1CCO)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6080>
+580,581,Mexacarbate,,,315-18-4,CC1=CC(=CC(=C1N(C)C)C)OC(=O)NC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e60d0>
+581,582,Michler's ketone ,5.64,84.1,90-94-8,CN(C)C1=CC=C(C=C1)C(=O)C2=CC=C(C=C2)N(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6120>
+582,583,Mirex,1.77,1.45,2385-85-5,C12(C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6170>
+583,584,Photomirex,1.46,,39801-14-4,C12C3(C4(C5(C3(C(C1(C5(C2(C4(Cl)Cl)Cl)Cl)Cl)(Cl)Cl)Cl)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e61c0>
+584,585,Misoprostol,,,59122-46-2,CCCCC(C)(C/C=C/[C@H]1[C@@H](CC(=O)[C@@H]1CCCCCCC(=O)OC)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6210>
+585,586,Mitomycin-C,0.00102,,50-07-07,CC1=C(C(=O)C2=C(C1=O)N3C[C@H]4[C@@H]([C@@]3([C@@H]2COC(=O)N)OC)N4)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6260>
+586,587,Monocrotaline,0.94,,315-22-0,C[C@H]1C(=O)O[C@@H]2CCN3[C@@H]2C(=CC3)COC(=O)[C@]([C@]1(C)O)(C)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e62b0>
+587,588,Mononitrosocaffeidine,1,,145438-96-6,CNC(=O)C1=C(N=CN1C)N(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6300>
+588,589,Monosodium aspartate,,,3792-50-5,C([C@@H](C(=O)[O-])N)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6350>
+589,590,L-Monosodium glutamate,,,142-47-2,C(CC(=O)O)[C@@H](C(=O)[O-])N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e63a0>
+590,591,Monosodium succinate,,,2922-54-5,C(CC(=O)[O-])C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e63f0>
+591,592,4-Morpholino-2-(5-nitro-2-thienyl)qui nazoline,5.03,,58139-48-3,C1COCCN1C2=NC(=NC3=CC=CC=C32)C4=CC=C(S4)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6440>
+593,594,Myleran,,,55-98-1,CS(=O)(=O)OCCCCOS(=O)(=O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6490>
+595,596,Nalidixic acid,201,,0389-08-02,CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6530>
+596,597,Naphthalene,22.1,163,91-20-3,C1=CC=C2C=CC=CC2=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6580>
+597,598,"1,5-Naphthalenediamine",69.6,162,2243-62-1,C1=CC2=C(C=CC=C2N)C(=C1)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e65d0>
+598,599,N-(1-Naphthyl)ethylenediamine,,,1465-25-4,C1=CC=C2C(=C1)C=CC=C2NCCN,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6620>
+599,600,2-Naphthylamine,61.6,39.4,91-59-8,C1=CC=C2C=C(C=CC2=C1)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6670>
+600,601,Nefiracetam,,,77191-36-7,CC1=C(C(=CC=C1)C)NC(=O)CN2CCCC2=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e66c0>
+601,602,Nicotine,,,1954-11-05,CN1CCC[C@H]1C2=CN=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6710>
+602,603,Nithiazide,131,758,139-94-6,CCNC(=O)NC1=NC=C(S1)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6760>
+603,604,Nitrilotriacetic acid ,1770,2660,139-13-9,C(C(=O)O)N(CC(=O)O)CC(=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e67b0>
+604,605,"Nitrilotriacetic acid , trisodium salt",370,,18662-53-8,C(C(=O)[O-])N(CC(=O)[O-])CC(=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6800>
+605,606,3-Nitro-p-acetophenetide,,2270,1777-84-0,CCOC1=C(C=C(C=C1)NC(=O)C)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6850>
+606,607,5-Nitro-o-anisidine,53.9,3720,99-59-2,COC1=C(C=C(C=C1)[N+](=O)[O-])N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e68a0>
+607,608,5-Nitro-2-furaldehyde semicarbazone,,,59-87-0,C1=C(OC(=C1)[N+](=O)[O-])/C=N/NC(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e68f0>
+608,609,5-Nitro-2-furamidoxime,6.98,30.8,772-43-0,C1=C(OC(=C1)[N+](=O)[O-])/C(=N/O)/N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6940>
+609,610,5-Nitro-2-furanmethanediol diacetate,,,92-55-7,CC(=O)OC(C1=CC=C(O1)[N+](=O)[O-])OC(=O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6990>
+610,611,"3-(5-Nitro-2-furyl)-imidazo(1,2-alpha) pyridine",13.6,27,75198-31-1,C1=CC2=NC=C(N2C=C1)C3=CC=C(O3)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e69e0>
+611,612,"5-(5-Nitro-2-furyl)-1,3,4-oxadiazole-2-ol",8.61,,2122-86-3,C1=C(OC(=C1)[N+](=O)[O-])C2=NNC(=O)O2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6a30>
+612,613,"N-{[3-(5-Nitro-2-furyl)-1,2,4-oxadiaz ole-5-yl]-methyl}a cetamide",59.6,,36133-88-7,CC(=O)NCC1=NC(=NO1)C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6a80>
+613,614,"N-[5-(5-Nitro-2-fur yl)-1,3,4-thiadiazol-2-yl]acetamide",8.84,6.74,2578-75-8,CC(=O)NC1=NN=C(S1)C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6ad0>
+614,615,4-(5-Nitro-2-furyl)thiazole,7.68,,53757-28-1,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC=N2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6b20>
+615,616,N-[4-(5-Nitro-2-furyl)-2-thiazolyl]acet amide,17.8,,531-82-8,CC(=O)NC1=NC(=CS1)C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6b70>
+616,617,N-[4-(5-Nitro-2-fur yl)-2-thiazolyl]formamide,4.25,19.7,24554-26-5,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NC=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6bc0>
+617,618,"N,N'-[6-(5-Nitro-2-furyl)-S-triazine-2, 4-diyl]bisacetamid e",14.1,,51325-35-0,CC(=O)NC1=NC(=NC(=N1)C2=CC=C(O2)[N+](=O)[O-])NC(=O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6c10>
+618,619,3-Nitro-3-hexene,8.66,0.346,4812-22-0,CC/C=C(/CC)\[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6c60>
+619,620,2-Nitro-p-phenylenediamine,,614,5307-14-2,C1=CC(=C(C=C1N)[N+](=O)[O-])N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6cb0>
+620,621,4-Nitro-o-phenylenediamine,,,99-56-9,C1=CC(=C(C=C1[N+](=O)[O-])N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6d00>
+621,622,5-Nitro-o-toluidine,,277,99-55-8,CC1=C(C=C(C=C1)[N+](=O)[O-])N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6d50>
+622,623,5-Nitroacenaphthene,8.67,45.8,602-87-9,C1CC2=CC=CC3=C(C=CC1=C23)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6da0>
+623,624,p-Nitroaniline,,,0100-01-06,C1=CC(=CC=C1N)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6df0>
+624,625,o-Nitroanisole,15.6,178,91-23-6,COC1=CC=CC=C1[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6e40>
+625,626,4-Nitroanthranilic acid,,,619-17-0,C1=CC(=C(C=C1[N+](=O)[O-])N)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6e90>
+626,627,Nitrobenzene,25.5,296,98-95-3,C1=CC=C(C=C1)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6ee0>
+627,628,6-Nitrobenzimidazole,,372,94-52-0,C1=CC2=C(C=C1[N+](=O)[O-])NC=N2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6f30>
+628,629,P-Nitrobenzoic acid,,287,62-23-7,C1=CC(=CC=C1C(=O)O)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e6f80>
+629,630,1-Nitrobutane,,,0627-05-04,CCCC[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7030>
+630,631,2-Nitrobutane,,2.86,600-24-8,CCC(C)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7080>
+631,632,Nitrofen,420,115,1836-75-5,C1=CC(=CC=C1[N+](=O)[O-])OC2=C(C=C(C=C2)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e70d0>
+632,633,2-Nitrofluorene,0.285,,607-57-8,C1C2=CC=CC=C2C3=C1C=C(C=C3)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7120>
+633,634,1-[(5-Nitrofurfurylidene)amino]hydantoin,163,1400,67-20-9,C1C(=O)NC(=O)N1/N=C/C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7170>
+634,635,1-[(5-Nitrofurfurylidene)amino]-2-imi dazolidinone,5.26,,555-84-0,C1CN(C(=O)N1)/N=C/C2=CC=C(O2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e71c0>
+635,636,Nitrogen mustard ,0.0114,,51-75-2,CN(CCCl)CCCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7210>
+636,637,Nitrogen mustard N-oxide,0.764,,126-85-2,C[N+](CCCl)(CCCl)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7260>
+637,638,1-Nitronaphthalene,,,86-57-7,C1=CC=C2C(=C1)C=CC=C2[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e72b0>
+638,639,3-Nitropentane,2.37,,551-88-2,CCC(CC)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7300>
+639,640,1-Nitropropane,,,0108-03-02,CCC[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7350>
+640,641,2-Nitropropane,,,79-46-9,CC(C)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e73a0>
+641,642,3-Nitropropionic acid,,,504-88-1,C(C[N+](=O)[O-])C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e73f0>
+642,643,1-Nitropyrene,3.33,,5522-43-0,C1=CC2=C3C(=C1)C=CC4=C(C=CC(=C43)C=C2)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7440>
+643,644,6-Nitroquinoline,,,613-50-3,C1=CC2=C(C=CC(=C2)[N+](=O)[O-])N=C1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7490>
+644,645,8-Nitroquinoline,9.82,,607-35-2,C1=CC2=C(C(=C1)[N+](=O)[O-])N=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e74e0>
+645,646,Nitroso-Baygon,0.364,,38777-13-8,CC(C)OC1=CC=CC=C1OC(=O)N(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7530>
+646,647,"N-Nitroso-bis-(4,4, 4-trifluoro-N-butyl)amine",0.748,,83335-32-4,C(CC(F)(F)F)CN(CCCC(F)(F)F)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7580>
+647,648,"1-Nitroso-5,6-dihydrothymine",,,62641-67-2,CC1CN(C(=O)NC1=O)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e75d0>
+648,649,"1-Nitroso-5,6-dihydrouracil",0.0983,,16813-36-8,C1CN(C(=O)NC1=O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7620>
+649,650,"N-Nitroso-2,3-dihy droxypropyl-2-hydroxypropylamine",0.0535,,89911-79-5,CC(CN(CC(CO)O)N=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7670>
+650,651,"Nitroso-2,3-dihydroxypropyl-2-oxopr opylamine",0.0352,,92177-50-9,CC(=O)CN(CC(CO)O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e76c0>
+651,652,"N-Nitroso-2,3-dihy droxypropylethanolamine",5.98,,89911-78-4,C(CO)N(CC(CO)O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7710>
+652,653,"1-Nitroso-3,5-dime thyl-4-benzoylpiperazine",9.66,,61034-40-0,CC1CN(CC(N1C(=O)C2=CC=CC=C2)C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7760>
+653,654,1-Nitroso-1-hydrox yethyl-3-chloroethylurea,0.356,,96806-34-7,C(CCl)NC(=O)N(CCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e77b0>
+654,655,N-Nitroso-2-hydroxymorpholine,,,67587-52-4,C1COC(CN1N=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7800>
+655,656,1-Nitroso-1-(2-hyd roxypropyl)-3-chloroethylurea,0.873,,96806-35-8,CC(CN(C(=O)NCCCl)N=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7850>
+656,657,N-Nitroso-(2-hydroxypropyl)-(2-hydr oxyethyl)amine,1.02,,75896-33-2,CC(CN(CCO)N=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e78a0>
+657,658,N-Nitroso-3-hydroxypyrrolidine,7.65,,56222-35-6,C1CN(CC1O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e78f0>
+658,659,N-Nitroso-N-isobutylurea,4.73,,760-60-1,CC(C)CN(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7940>
+659,660,N-Nitroso-N-methyl-N-dodecylamine,0.537,,55090-44-3,CCCCCCCCCCCCN(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7990>
+660,661,N-Nitroso-N-methyl-4-fluoroaniline,0.255,,937-25-7,CN(C1=CC=C(C=C1)F)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e79e0>
+661,662,N-Nitroso-N-methyl-4-nitroaniline,,,943-41-9,CN(C1=CC=C(C=C1)[N+](=O)[O-])N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7a30>
+662,663,Nitroso-N-methyl- N-(2-phenyl)ethylamine,0.00998,,13256-11-06,CN(CCC1=CC=CC=C1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7a80>
+663,664,N-Nitroso-N-meth yl-N-tetradecylamine,1.65,,75881-20-8,CCCCCCCCCCCCCCN(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7ad0>
+664,665,N-Nitroso-N-methyldecylamine,1.26,,75881-22-0,CCCCCCCCCCN(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7b20>
+665,666,3-Nitroso-2-oxazolidinone,0.385,,38347-74-9,C1COC(=O)N1N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7b70>
+666,667,Nitroso-2-oxopropylethanolamine,1.8,,92177-49-6,CC(=O)CN(CCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7bc0>
+667,668,di(N-Nitroso)-perhydropyrimidine,0.166,,15973-99-6,C1CN(CN(C1)N=O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7c10>
+668,669,"Nitroso-1,2,3,6-tetrahydropyridine",0.0601,,55556-92-8,C1CN(CC=C1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7c60>
+669,670,"N-Nitroso(2,2,2-tri fluoroethyl)ethylamine",2.52,,82018-90-4,CCN(CC(F)(F)F)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7cb0>
+670,671,"N-Nitroso-2,2,4-tri methyl-1,2-dihydroquinoline polymer",3.31,,29929-77-9,CC1=CC(N(C2=CC=CC=C12)N=O)(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7d00>
+671,672,"1-Nitroso-3,4,5-trimethylpiperazine",0.151,,75881-18-4,CC1CN(CC(N1C)C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7d50>
+672,673,"N-Nitrosoallyl-2,3-dihydroxypropyla mine",0.825,,88208-16-6,C=CCN(CC(CO)O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7da0>
+673,674,N-Nitrosoallyl-2-hydroxypropylamin e,0.877,,91308-70-2,CC(CN(CC=C)N=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7df0>
+674,675,N-Nitrosoallyl-2-oxopropylamine,0.335,,91308-71-3,CC(=O)CN(CC=C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7e40>
+675,676,N-Nitrosoallylethanolamine,0.491,,91308-69-9,C=CCN(CCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7e90>
+676,677,Nitrosoamylurethane,1.01,,64005-62-5,CCCCCN(C(=O)OCC)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7ee0>
+677,678,Nitrosoanabasine,11.9,,1133-64-8,C1CCN(C(C1)C2=CN=CC=C2)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7f30>
+678,679,N-Nitrosobenzthiazuron,1.13,,51542-33-7,CN(C(=O)NC1=NC2=CC=CC=C2S1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e7f80>
+679,680,N-Nitrosobis(2-hydroxypropyl)amine,0.846,,53609-64-6,CC(CN(CC(C)O)N=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297030>
+680,681,N-Nitrosobis(2-oxopropyl)amine,0.491,,60599-38-4,CC(=O)CN(CC(=O)C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297080>
+681,682,"N-Nitrosobis(2,2,2-trifluoroethyl) amine",,,625-89-8,C(C(F)(F)F)N(CC(F)(F)F)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872970d0>
+682,683,Nitrosochlordiazepoxide,,,51715-17-4,CC1=C(N=CN1)CSCCN=C(NC#N)N(C)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297120>
+683,684,Nitrosodibutylamine,0.691,1.09,924-16-3,CCCCN(CCCC)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297170>
+684,685,N-Nitrosodiethanolamine,3.17,,1116-54-7,C(CO)N(CCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872971c0>
+685,686,N-Nitrosodiethylamine,0.0265,,55-18-5,CCN(CC)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297210>
+686,687,N-Nitrosodiphenylamine,167,,86-30-6,C1=CC=C(C=C1)N(C2=CC=CC=C2)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297260>
+687,688,P-Nitrosodiphenylamine,201,,0156-10-05,C1=CC=C(C=C1)NC2=CC=C(C=C2)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872972b0>
+688,689,N-Nitrosodipropylamine,0.186,,621-64-7,CCCN(CCC)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297300>
+689,690,N-Nitrosodithiazine,,,114282-83-6,C1N(CSCS1)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297350>
+690,691,Nitrosododecamethyleneimine,10.9,,40580-89-0,C1CCCCCCN(CCCCC1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872973a0>
+691,692,N-Nitrosoephedrine,95.2,,17608-59-2,CC(C(C1=CC=CC=C1)O)N(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872973f0>
+692,693,Nitrosoethylmethylamine,0.0503,,10595-95-6,CCN(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297440>
+693,694,Nitrosoethylurethane,0.0904,,614-95-9,CCN(C(=O)OCC)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297490>
+694,695,N-Nitrosoguvacoline,,,55557-02-3,COC(=O)C1=CCCN(C1)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872974e0>
+695,696,Nitrosoheptamethyleneimine,0.0378,,20917-49-1,C1CCCN(CCC1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297530>
+696,697,1-Nitrosohydantoin,43.8,,42579-28-2,C1C(=O)NC(=O)N1N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297580>
+697,698,Nitrosohydroxyproline,,,30310-80-6,C1[C@H](CN([C@@H]1C(=O)O)N=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872975d0>
+698,699,Nitrosoiminodiacetic acid,,,25081-31-6,C(C(=O)O)N(CC(=O)O)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297620>
+699,700,Nitrosomethyl-3-carboxypropylamine,0.982,,61445-55-4,CN(CCCC(=O)O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297670>
+700,701,"N-Nitrosomethyl-2,3-dihydroxypropyl amine",0.646,,86451-37-8,CN(CC(CO)O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872976c0>
+701,702,N-Nitrosomethyl-( 2-hydroxyethyl)amine,1.29,,26921-68-6,CN(CCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297710>
+702,703,N-Nitrosomethyl-( 3-hydroxypropyl) amine,1.66,,70415-59-7,CN(CCCO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297760>
+703,704,N-Nitrosomethyl-2-hydroxypropylami ne,0.0463,,75411-83-5,CC(CN(C)N=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872977b0>
+704,705,N-Nitrosomethyl(2-oxopropyl)amine,0.0172,,55984-51-5,CC(=O)CN(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297800>
+705,706,N-Nitrosomethyl-( 2-tosyloxyethyl)amine,4.8,,NOCAS,CC1=CC=C(C=C1)S(=O)(=O)OCCN(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297850>
+706,707,2-Nitrosomethylaminopyridine,0.214,,16219-98-0,CN(C1=CC=CC=N1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872978a0>
+707,708,3-Nitrosomethylaminopyridine,,,69658-91-9,CN(C1=CN=CC=C1)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872978f0>
+708,709,4-Nitrosomethylaminopyridine,,,16219-99-1,CN(C1=CC=NC=C1)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297940>
+709,710,Nitrosomethylaniline,0.142,,614-00-6,CN(C1=CC=CC=C1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297990>
+710,711,Nitrosomethylundecylamine,2.37,,68107-26-6,CCCCCCCCCCCN(C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872979e0>
+711,712,N-Nitrosomorpholine,0.109,,59-89-2,C1COCCN1N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297a30>
+712,713,N'-Nitrosonornicotine,0.0957,,53759-22-1,C1CC(N(C1)N=O)C2=CN=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297a80>
+713,714,N'-Nitrosonornicotine-1-N-oxide,0.876,,78246-24-9,C1CC(N(C1)N=O)C2=C[N+](=CC=C2)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297ad0>
+714,715,Nitrosopipecolic acid,,,4515-18-8,C1CCN(C(C1)C(=O)O)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297b20>
+715,716,N-Nitrosopiperazine,8.78,,5632-47-3,C1CN(CCN1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297b70>
+716,717,N-Nitrosopiperidine,1.43,,100-75-4,C1CCN(CC1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297bc0>
+717,718,Nitrosoproline,,,7519-36-0,C1C[C@H](N(C1)N=O)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297c10>
+718,719,N-Nitrosopyrrolidine,0.799,0.679,930-55-2,C1CCN(C1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297c60>
+719,720,N-Nitrosothialdine,0.483,,16259-07-05,CC1N(C(SC(S1)C)C)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297cb0>
+720,721,N-Nitrosothiomorpholine,5.39,,26541-51-5,C1CSCCN1N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297d00>
+721,722,o-Nitrosotoluene,50.7,,611-23-4,CC1=CC=CC=C1N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297d50>
+722,723,o-Nitrotoluene,4.66,128,88-72-2,CC1=CC=CC=C1[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297da0>
+723,724,p-Nitrotoluene,257,,99-99-0,CC1=CC=C(C=C1)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297df0>
+724,725,Norharman,,,244-63-3,C1=CC=C2C(=C1)C3=C(N2)C=NC=C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297e40>
+726,727,Novadelox,,,94-36-0,C1=CC=C(C=C1)C(=O)OOC(=O)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297e90>
+728,729,Octachlorostyrene,,,29082-74-4,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)C(=C(Cl)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297ee0>
+729,730,Oleate,,,143-19-1,CCCCCCCC/C=C\CCCCCCCC(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297f30>
+730,731,Oltipraz,,,64224-21-1,CC1=C(SSC1=S)C2=NC=CN=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587297f80>
+733,734,C.I. acid orange 10 ,,,1936-15-8,C1=CC=C(C=C1)N/N=C/2\C(=O)C=CC3=CC(=CC(=C32)S(=O)(=O)[O-])S(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290080>
+734,735,Orotic acid ,,,154-85-8,C1=C(NC(=O)NC1=O)C(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872900d0>
+736,737,Osutidine,,,140695-21-2,CNCC1=CC=C(O1)CSCCNC(=NCC(C2=CC=C(C=C2)O)O)NS(=O)(=O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290120>
+737,738,Oxamyl,,,23135-22-0,CNC(=O)O/N=C(/C(=O)N(C)C)\SC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290170>
+738,739,Oxazepam,,35.8,604-75-1,C1=CC=C(C=C1)C2=NC(C(=O)NC3=C2C=C(C=C3)Cl)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872901c0>
+739,740,N-(9-Oxo-2-fluorenyl)acetamide,6.17,,3096-50-2,CC(=O)NC1=CC2=C(C=C1)C3=CC=CC=C3C2=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290210>
+740,741,Oxolinic acid ,167,,14698-29-4,CCN1C=C(C(=O)C2=CC3=C(C=C21)OCO3)C(=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290260>
+741,742,1-(2-Oxopropyl)nitroso-3-(2-chloroeth yl)urea,,,110559-85-8,CC(=O)CN(C(=O)NCCCl)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872902b0>
+742,743,2-Oxopropylnitrosourea,,,89837-93-4,CC(=O)CN(C(=O)N)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290300>
+743,744,1'-Oxosafrole,,,30418-53-2,C=CC(=O)C1=CC2=C(C=C1)OCO2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290350>
+744,745,Oxprenolol,,,6452-73-9,CC(C)NCC(COC1=CC=CC=C1OCC=C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872903a0>
+745,746,"4,4'-Oxydianiline",9.51,33.6,101-80-4,C1=CC(=CC=C1N)OC2=CC=C(C=C2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872903f0>
+746,747,N-Oxydiethylene thiocarbamyl-N-ox ydiethylene sulfenamide,90.8,,13752-51-7,C1COCCN1C(=S)SN2CCOCC2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290440>
+747,748,Oxymetholone,66.9,,0434-07-01,C[C@]12CC[C@H]3[C@H]([C@@H]1CC[C@]2(C)O)CC[C@@H]4[C@@]3(C/C(=C/O)/C(=O)C4) C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290490>
+749,750,Palonidipine,,,96515-74-1,CC1=C(C(C(=C(N1)C)C(=O)OCC(C)(C)CN(C)CC2=CC=CC=C2)C3=C(C=CC(=C3)[N+](=O)[O-])F) C(=O)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872904e0>
+750,751,Parathion,,,56-38-2,CCOP(=S)(OCC)OC1=CC=C(C=C1)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290530>
+751,752,Patulin,,,149-29-1,C1C=C2C(=CC(=O)O2)C(O1)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290580>
+752,753,Penicillin VK ,,,132-98-9,CC1([C@@H](N2[C@H](S1)[C@@H](C2=O)NC(=O)COC3=CC=CC=C3)C(=O)[O-])C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872905d0>
+753,754,Pentachloroanisole,24.8,68,1825-21-4,COC1=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290620>
+754,755,Pentachloronitrobenzene,,71.1,82-68-8,C1(=C(C(=C(C(=C1Cl)Cl)Cl)Cl)Cl)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290670>
+755,756,Pentaerythritol tetranitrate,,,1978-11-05,C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872906c0>
+756,757,N-Pentyl-N'-nitro-N-nitrosoguanidine,,,13010-10-01,CCCCCN(/C(=N/[N+](=O)[O-])/N)N=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290710>
+757,758,Perhexiline maleate,,,6724-53-4,C1CCC(CC1)C(CC2CCCCN2)C3CCCCC3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290760>
+758,759,Petasitenine,0.922,,60102-37-6,C[C@@H]1CC2([C@H](O2)C)C(=O)O[C@@H]3CCN(C/C=C(\C3=O)/COC(=O)[C@]1(C)O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872907b0>
+759,760,Phenacetin,1250,2140,62-44-2,CCOC1=CC=C(C=C1)NC(=O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290800>
+760,761,Phenazone,1230,,60-80-0,CC1=CC(=O)N(N1C)C2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290850>
+761,762,Phenazopyridine,303,71.1,136-40-3,C1=CC=C(C=C1)N=NC2=C(N=C(C=C2)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872908a0>
+763,764,Phenethyl isothiocyanate,,,2257-09-02,C1=CC=C(C=C1)CCN=C=S,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872908f0>
+764,765,Phenformin,,,834-28-6,C1=CC=C(C=C1)CCN=C(N)N=C(N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290940>
+765,766,Phenobarbital,,7.37,1950-06-06,CCC1(C(=O)NC(=O)NC1=O)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290990>
+766,767,Phenobarbital sodium,86,29.7,57-30-7,CCC1(C(=O)NC(=NC1=O)[O-])C2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872909e0>
+767,768,Phenol,,,108-95-2,C1=CC=C(C=C1)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290a30>
+768,769,Phenolphthalein,902,1170,1977-09-08,C1=CC=C2C(=C1)C(=O)OC2(C3=CC=C(C=C3)O)C4=CC=C(C=C4)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290a80>
+769,770,Phenoxybenzamine,1.09,5.36,63-92-3,CC(COC1=CC=CC=C1)N(CCCl)CC2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290ad0>
+770,771,"1-Phenyl-3,3-dimethyltriazene",2.31,,7227-91-0,CN(C)N=NC1=CC=CC=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290b20>
+771,772,1-Phenyl-3-methyl-5-pyrazolone,,,89-25-8,CC1=NN(C(=O)C1)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290b70>
+772,773,Phenyl-beta-naphthylamine,,,135-88-6,C1=CC=C(C=C1)NC2=CC3=CC=CC=C3C=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290bc0>
+773,774,N-Phenyl-p-phenylenediamine,,,2198-59-6,C1=CC=C(C=C1)NC2=CC=C(C=C2)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290c10>
+774,775,"2-Phenyl-1,3-propanediol dicarbamate",1090,7420,25451-15-4,C1=CC=C(C=C1)C(COC(=O)N)COC(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290c60>
+775,776,(E)-7-Phenyl-7-(3-pyridyl)-6-heptenoi c acid,,,89667-40-3,C1=CC=C(C=C1)/C(=C\CCCCC(=O)O)/C2=CN=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290cb0>
+776,777,1-Phenyl-2-thiourea,,,103-85-5,C1=CC=C(C=C1)NC(=S)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290d00>
+777,778,1-Phenylazo-2-naphthol,29.4,,0842-07-09,C1=CC=C(C=C1)N/N=C/2\C(=O)C=CC3=CC=CC=C32,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290d50>
+778,779,Phenylbutazone,1160,353,50-33-9,CCCCC1C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290da0>
+779,780,P-Phenylenediamine,,,106-50-3,C1=CC(=CC=C1N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290df0>
+780,781,M-Phenylenediamine,,,541-69-5,C1=CC(=CC(=C1)N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290e40>
+781,782,O-Phenylenediamine,248,735,615-28-1,C1=CC=C(C(=C1)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290e90>
+782,783,Phenylephrine,,,61-76-7,CNC[C@@H](C1=CC(=CC=C1)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290ee0>
+783,784,Phenylethyl-3-methylcaffeate,,,71835-85-3,COC1=C(C=CC(=C1)/C=C/C(=O)OCCC2=CC=CC=C2)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290f30>
+784,785,Phenylglycidyl ether,44,,122-60-1,C1C(O1)COC2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587290f80>
+785,786,6-Phenylhexyl isothiocyanate,,,2848-06-06,C1=CC=C(C=C1)CCCCCCN=C=S,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296030>
+786,787,o-Phenylphenol,232,,90-43-7,C1=CC=C(C=C1)C2=CC=CC=C2O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296080>
+787,788,o-Phenylphenate,672,,132-27-4,C1=CC=C(C=C1)C2=CC=CC=C2[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872960d0>
+788,789,3-Phenylpropyl isothiocynate,,,2627-27-2,C1=CC=C(C=C1)CCCN=C=S,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296120>
+789,790,PhIP,1.78,33.2,NOCAS,CN1C2=C(N=CC(=C2)C3=CC=CC=C3)N=C1N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296170>
+790,791,Phthalamide,,,88-96-0,C1=CC=C(C(=C1)C(=O)N)C(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872961c0>
+791,792,Phthalic anhydride ,,,85-44-9,C1=CC=C2C(=C1)C(=O)OC2=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296210>
+792,793,Picloram,,,1918-02-01,C1(=C(C(=NC(=C1Cl)Cl)C(=O)O)Cl)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296260>
+793,794,Pilocarpine,,,92-13-7,CC[C@H]1[C@H](COC1=O)CC2=CN=CN2C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872962b0>
+795,796,Piperazine,,,110-85-0,C1CNCCN1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296300>
+796,797,Piperidine,,,110-89-4,C1CCNCC1,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296350>
+797,798,Piperonyl butoxide ,633,291,1951-03-06,CCCCOCCOCCOCC1=CC2=C(C=C1CCC)OCO2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872963a0>
+798,799,Piperonyl sulfoxide,,62.2,120-62-7,CCCCCCCCS(=O)C(C)CC1=CC2=C(C=C1)OCO2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872963f0>
+799,800,Pirmenol,,,61477-94-9,C[C@@H]1CCC[C@@H](N1CCCC(C2=CC=CC=C2)(C3=CC=CC=N3)O)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296440>
+800,801,Piroxicam,,,36322-90-4,CN1C(=C(C2=CC=CC=C2S1(=O)=O)O)C(=O)NC3=CC=CC=N3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296490>
+801,802,Pivalolactone,211,,1955-45-9,CC1(COC1=O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872964e0>
+802,803,"2,2',4,4',5,5'-Hexabromobiphenyl",0.322,0.332,67774-32-7,C1=C(C(=CC(=C1Br)Br)Br)C2=CC(=C(C=C2Br)Br)Br,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296530>
+803,804,Polybrominated biphenyls,,,59536-65-1,C1=CC(=C(C(=C1C2=CC(=C(C(=C2)Br)Br)Br)Br)Br)Br,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296580>
+804,805,2-[2-(4-Nonylphenoxy)ethoxy]ethanol,,,9016-45-9,CCCCCCCCCC1=CC=C(C=C1)OCCOCCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872965d0>
+805,806,Polysorbate 80 ,,,9005-65-6,CCCCCCCC/C=C/CCCCCCCC(=O)OCCOCC(C1C(CC(O1)OCCO)OCCO)OCCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296620>
+806,807,Polyvinylpyridine-N-oxide,,,9045-81-2,C=CC1=CC=CC=[N+]1[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296670>
+807,808,Practolol,,,6673-35-4,CC(C)NCC(COC1=CC=C(C=C1)NC(=O)C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872966c0>
+808,809,Pranlukast,,,19749-03-07,C1=CC=C(C=C1)CCCCOC2=CC=C(C=C2)C(=O)NC3=CC=CC4=C3OC(=CC4=O)C5=NNN=N5,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296710>
+809,810,Prazepam,,,2955-38-6,C1CC1CN2C(=O)CN=C(C3=C2C=CC(=C3)Cl)C4=CC=CC=C4,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296760>
+810,811,Praziquantel,,,55268-74-1,C1CCC(CC1)C(=O)N2CC3C4=CC=CC=C4CCN3C(=O)C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872967b0>
+811,812,Prednimustine,19.2,,29069-24-7,C[C@]12C[C@@H]([C@H]3[C@H]([C@@H]1CC[C@@]2(C(=O)COC(=O)CCCC4=CC=C(C=C4)N(CCCl)CCCl)O)CCC5=CC(=O)C=C[C@]35C)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296800>
+814,815,Primidone,,26.1,125-33-7,CCC1(C(=O)NCNC1=O)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296850>
+815,816,Probenecid,,540,57-66-9,CCCN(CCC)S(=O)(=O)C1=CC=C(C=C1)C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872968a0>
+816,817,Procarbazine,4.01,,671-16-9,CC(C)NC(=O)C1=CC=C(C=C1)CNNC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872968f0>
+817,818,Procarbazine. Hcl,0.351,0.558,366-70-1,CC(CN1C2=CC=CC=C2SC3=CC=CC=C31)N(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296940>
+818,819,Propane sultone ,3.84,,1120-71-4,C1COS(=O)(=O)C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296990>
+819,820,beta-Propiolactone,1.46,1.24,57-57-8,C1COC1=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5872969e0>
+820,821,Propranolol,,,318-98-9,CC(C)NCC(COC1=CC=CC2=CC=CC=C21)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296a30>
+821,822,Propyl gallate ,,,121-79-9,CCCOC(=O)C1=CC(=C(C(=C1)O)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296a80>
+822,823,N-Propyl-N'-nitro-N-nitrosoguanidine,1.31,,13010-07-06,CCCN(/C(=N/[N+](=O)[O-])/N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296ad0>
+823,824,N-Propyl-N-nitrosourea,3.77,,816-57-9,CCCN(C(=O)N)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296b20>
+824,825,Propylene,,,0115-07-01,CC(CO)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296b70>
+825,826,Propylene glycol mono-t-butyl ether,,1870,57018-52-7,CC(COC(C)(C)C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296bc0>
+826,827,"1,2-Propylene oxide",74.4,912,75-56-9,CC1CO1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296c10>
+827,828,Propylthiouracil,13.7,409,51-52-5,CCCC1=CC(=O)NC(=S)N1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296c60>
+829,830,"Protocatechuic
+acid",,,99-50-3,C1=CC(=C(C=C1C(=O)O)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296cb0>
+830,831,SX purple ,24500,,2611-82-7,C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N/N=C/3\C(=O)C=CC4=CC(=CC(=C43)S(=O)(=O)[O-])S(=O)(=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296d00>
+831,832,Purpurin,678,,81-54-9,C1=CC=C2C(=C1)C(=O)C3=C(C2=O)C(=C(C=C3O)O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296d50>
+832,833,Pyrazinamide,,,98-96-4,C1=CN=C(C=N1)C(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296da0>
+833,834,Pyridine,67.3,24.4,110-86-1,C1=CC=NC=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296df0>
+834,835,Pyrilamine,280,,59-33-6,CN(C)CCN(CC1=CC=C(C=C1)OC)C2=CC=CC=N2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296e40>
+835,836,Pyrimethamine,,,58-14-0,CCC1=C(C(=NC(=N1)N)N)C2=CC=C(C=C2)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296e90>
+836,837,Quinapril,,,82586-55-8,CCOC(=O)[C@H](CCC1=CC=CC=C1)N[C@@H](C)C(=O)N2CC3=CC=CC=C3C[C@H]2C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296ee0>
+837,838,P-Quinone dioxime ,106,,0105-11-03,C1=CC(=CC=C1NO)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296f30>
+838,839,Ramosetron,,,132907-72-3,CN1C=C(C2=CC=CC=C21)C(=O)[C@@H]3CCC4=C(C3)NC=N4,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb587296f80>
+839,840,C.I. acid red 114 ,3.89,,6459-94-5,CC1=CC=C(C=C1)S(=O)(=O)OC2=CC=C(C=C2) N=NC3=C(C=C(C=C3)C4=CC(=C(C=C4)N/N=C/5\C(=O)C=CC6=CC(=CC(=C65)S(=O)(=O)[O-])S(=O)(=O)[O-])C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9030>
+840,841,C.I.food red 3 ,,,3567-69-9,C1=CC=C2C(=C1)C(=CC=C2S(=O)(=O)[O-])N/N=C\3/C=C(C4=CC=CC=C4C3=O)S(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9080>
+841,842,C.I.pigment red 3 ,1170,35500,2425-85-6,CC1=CC(=C(C=C1)N/N=C/2\C(=O)C=CC3=CC=CC=C32)[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e90d0>
+843,844,D & C red no. 5 ,415,716,3761-53-3,CC1=CC(=C(C=C1)N/N=C\2/C3=C(C=CC(=C3)S(=O)(=O)[O-])C=C(C2=O)S(=O)(=O)[O-])C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9120>
+844,845,D & C red no. 10 ,,,1248-18-6,C1=CC=C2C(=C1)C=CC(=C2S(=O)(=O)[O-])N/N=C/3\C(=O)C=CC4=CC=CC=C43,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9170>
+845,846,FD & C red no. 1 ,521,,3564-09-08,CC1=CC(=C(C=C1C)N/N=C\2/C3=C(C=C(C=C3)S(=O)(=O)[O-])C=C(C2=O)S(=O)(=O)[O-])C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e91c0>
+847,848,FD & C red no. 3 ,,,16423-68-0,C1=CC=C(C(=C1)C2=C3C=C(C(=O)C(=C3OC4=C(C(=C(C=C24)I)[O-])I)I)I)C(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9210>
+848,849,FD& C red no. 4 ,8110,,4548-53-2,CC1=CC(=C(C=C1N/N=C/2\C=C(C3=CC=CC=C3C2=O)S(=O)(=O)[O-])S(=O)(=O)[O-])C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9260>
+850,851,HC red no. 3 ,,,2871-01-04,C1=CC(=C(C=C1N)[N+](=O)[O-])NCCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e92b0>
+852,853,Resorcinol,,,108-46-3,C1=CC(=CC(=C1)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9300>
+853,854,Retinoic acid ,,,302-79-4,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/C(=O)O)/C)/C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9350>
+854,855,Retinol acetate,125,,127-47-9,CC1=C(C(CCC1)(C)C)/C=C/C(=C/C=C/C(=C/COC(=O)C)/C)/C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e93a0>
+855,856,Retinol palmitate ,,,79-81-2,CCCCCCCCCCCCCCCC(=O)OC/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(CCCC1(C)C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e93f0>
+856,857,Retrorsine,0.862,,480-54-6,C/C=C\1/C[C@H]([C@@](C(=O)OCC2=CCN3[C@H]2[C@@H](CC3)OC1=O)(CO)O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9440>
+857,858,Rhodamine 6G ,,,989-38-8,CCNC1=C(C=C2C(=C1)OC3=CC(=NCC)C(=CC3=C2C4=CC=CC=C4C(=O)OCC)C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9490>
+858,859,Riddelliine,0.119,1.97,23246-96-0,C/C=C\1/CC(=C)[C@@](C(=O)OCC2=CCN3[C@H]2[C@@H](CC3)OC1=O)(CO)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e94e0>
+860,861,Ripazepam,,114,26308-28-1,CCN1C2=C(C(=N1)C)NC(=O)CN=C2C3=CC=CC=C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9530>
+861,862,Rosaniline,,,632-99-5,CC1=CC(=C(C2=CC=C(C=C2)N)C3=CC=C(C=C3)N)C=CC1=N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9580>
+862,863,p-Rosaniline,39.4,51.5,569-61-9,C1=CC(=N)C=CC1=C(C2=CC=C(C=C2)N)C3=CC=C(C=C3)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e95d0>
+863,864,Rotenone,,,83-79-4,CC(=C)[C@H]1CC2=C(O1)C=CC3=C2O[C@@H]4COC5=CC(=C(C=C5[C@@H]4C3=O)OC)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9620>
+865,866,Saccharin,,,1981-07-02,C1=CC=C2C(=C1)C(=O)NS2(=O)=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9670>
+866,867,Saccharin,,,6485-34-3,C1=CC=C2C(=C1)C(=NS2(=O)=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e96c0>
+867,868,Saccharin,2140,,128-44-9,C1=CC=C2C(=C1)C(=O)[N-]S2(=O)=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9710>
+868,869,Safrole,441,51.3,94-59-7,C=CCC1=CC2=C(C=C1)OCO2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9760>
+869,870,Salbutamol,40,,18559-94-9,CC(C)(C)NCC(C1=CC(=C(C=C1)O)CO)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e97b0>
+870,871,Salicylazosulfapyridine,1590,1250,599-79-1,C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N/N=C\3/C=CC(=O)C(=C3)C(=O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9800>
+871,872,Scopolamine,,,6533-68-2,CN1[C@@H]2CC(C[C@H]1[C@H]3[C@@H]2O3)OC(=O)[C@@H](CO)C4=CC=CC=C4,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9850>
+872,873,Senkirkine,1.7,,2318-18-5,C/C=C\1/C[C@H]([C@@](C(=O)OC/C/2=C/CN(CC[C@H](C2=O)OC1=O)C)(C)O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e98a0>
+873,874,Sertraline,,,79559-97-0,CN[C@H]1CC[C@H](C2=CC=CC=C12)C3=CC(=C(C=C3)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e98f0>
+874,875,Sesamol,1350,4490,533-31-3,C1OC2=C(O1)C=C(C=C2)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9940>
+875,876,Sodium diethyldithiocarbamate,,,20624-25-3,CCN(CC)C(=S)[S-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9990>
+876,877,Sorbic acid ,,,110-44-1,C/C=C/C=C/C(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e99e0>
+877,878,Sotalol,,,959-24-0,CC(C)NCC(C1=CC=C(C=C1)NS(=O)(=O)C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9a30>
+878,879,Sterigmatocystin,0.152,0.908,10048-13-2,COC1=C2C(=C3C4C=COC4OC3=C1)OC5=C(C2=O)C(=CC=C5)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9a80>
+880,881,Streptozotocin,0.963,0.272,18883-66-4,CN(C(=O)N[C@@H]1[C@H]([C@@H]([C@H](O[C@@H]1O)CO)O)O)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9ad0>
+881,882,Styrene,23.3,210,100-42-5,C=CC1=CC=CC=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9b20>
+882,883,Trans-beta-Nitrostyrene,,,102-96-5,C1=CC=C(C=C1)/C=C/[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9b70>
+883,884,Styrene oxide ,55.4,118,96-09-03,C1C(O1)C2=CC=CC=C2,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9bc0>
+884,885,Succinic anhydride ,,,108-30-5,C1CC(=O)OC1=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9c10>
+885,886,Sucrose acetate isobutyrate ,,,126-13-6,CC(C)C(=O)OC[C@@H]1[C@H]([C@@H]([C@](O1)(COC(=O)C)O[C@@H]2[C@@H]([C@H]([C@@H]([C@H](O2)COC(=O)C)OC(=O)C(C)C)OC(=O)C(C)C)OC(=O)C(C)C)OC(=O)C(C)C)OC(=O)C(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9c60>
+886,887,Sulfallate,26.1,42.2,95-06-07,CCN(CC)C(=S)SCC(=C)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9cb0>
+887,888,Sulfisoxazole,,,127-69-5,CC1=C(ON=C1C)NS(=O)(=O)C2=CC=C(C=C2)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9d00>
+888,889,3-Sulfolene,,,77-79-2,C1C=CCS1(=O)=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9d50>
+889,890,"4,4'-Sulfonylbisacetanilide",55.6,,77-46-3,CC(=O)NC1=CC=C(C=C1)S(=O)(=O)C2=CC=C(C=C2)NC(=O)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9da0>
+890,891,Sulindac sulfone ,,,59973-80-7,CC\1=C(C2=C(/C1=C\C3=CC=C(C=C3)S(=O)(=O)C)C=CC(=C2)F)CC(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9df0>
+891,892,Suxibuzone,,,27470-51-5,CCCCC1(C(=O)N(N(C1=O)C2=CC=CC=C2)C3=CC=CC=C3)COC(=O)CCC(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9e40>
+892,893,Symphytine,1.91,,22571-95-5,C/C=C(\C)/C(=O)O[C@@H]1CCN2[C@@H]1C(=CC2)COC(=O)C(C(C)C)(C(C)O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9e90>
+893,894,Tace,,,569-57-3,COC1=CC=C(C=C1)C(=C(C2=CC=C(C=C2)OC)Cl)C3=CC=C(C=C3)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9ee0>
+894,895,Taltirelin,,,NOCAS,CN1C(=O)C[C@H](NC1=O)C(=O)N[C@@H](CC2=CN=CN2)C(=O)N3CCC[C@H]3C(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9f30>
+895,896,Tamoxifen,3.96,,54965-24-1,CC/C(=C(\C1=CC=CC=C1)/C2=CC=C(C=C2)OCCN(C)C)/C3=CC=CC=C3,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871e9f80>
+896,897,Tegafur,,,37076-68-9,C1CC(OC1)N2C=C(C(=O)NC2=O)F,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb030>
+897,898,Terbutaline,410,,23031-25-6,CC(C)(C)NCC(C1=CC(=CC(=C1)O)O)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb080>
+898,899,"3,3',4,4'-Tetraaminobiphenyl",395,288,7411-49-6,C1=CC(=C(C=C1C2=CC(=C(C=C2)N)N)N)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb0d0>
+899,900,"2,3,5,6-Tetrachloro-4-nitroanisole",,,2438-88-2,COC1=C(C(=C(C(=C1Cl)Cl)[N+](=O)[O-])Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb120>
+900,901,"2,2',5,5'-Tetrachlorobenzidine",,,15721-02-05,C1=C(C(=CC(=C1Cl)N)Cl)C2=CC(=C(C=C2Cl)N)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb170>
+901,902,"2,3,7,8-Tetrachlorodibenzo-p-dioxin",2.35E-05,0.000156,1746-01-06,C1=C2C(=CC(=C1Cl)Cl)OC3=CC(=C(C=C3O2)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb1c0>
+903,904,Tetraethylthiuram disulfide,,,97-77-8,CCN(CC)C(=S)SSC(=S)N(CC)CC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb210>
+904,905,Tetrafluoro-m-phenylenediamine,,86.3,63886-77-1,C1(=C(C(=C(C(=C1F)F)F)N)F)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb260>
+905,906,"Tetrahydro-2-nitroso-2H-1,2-oxazine",24.3,,40548-68-3,C1CCON(C1)N=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb2b0>
+906,907,1-trans-delta9-Tetrahydrocannabinol,,,1972-08-03,CCCCCC1=CC2=C([C@@H]3C=C(CC[C@H]3C(O2)(C)C)C)C(=C1)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb300>
+907,908,Tetrahydrofuran,407,1300,109-99-9,C1CCOC1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb350>
+908,909,"3,4,5,6-Tetrahydrouridine",,,18771-50-1,C1CN(C(=O)NC1=O)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb3a0>
+909,910,Tetramethylthiuram disulfide,,,137-26-8,CN(C)C(=S)SSC(=S)N(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb3f0>
+910,911,Thenyldiamine,,,91-79-2,CN(C)CCN(CC1=CSC=C1)C2=CC=CC=N2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb440>
+911,912,Theophylline,,,58-55-9,CN1C2=C(C(=O)N(C1=O)C)NC=N2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb490>
+912,913,Thiabendazole,,,148-79-8,C1=CC=C2C(=C1)NC(=N2)C3=CSC=N3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb4e0>
+913,914,Thiamphenicol,,,15318-45-3,CS(=O)(=O)C1=CC=C(C=C1)[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb530>
+914,915,Thio-TEPA,0.164,0.223,52-24-4,C1CN1P(=S)(N2CC2)N3CC3,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb580>
+915,916,"4,4'-Thiobis(6-tert-butyl-m-cresol)",,,96-69-5,CC1=CC(=C(C=C1SC2=CC(=C(C=C2C)O)C(C)(C)C)C(C)(C)C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb5d0>
+916,917,"4,4'-Thiodianiline",3.71,33.2,139-65-1,C1=CC(=CC=C1N)SC2=CC=C(C=C2)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb620>
+917,918,Beta-Thioguanine deoxyriboside,2.1,I,789-61-7,C1[C@@H]([C@H](O[C@H]1N2C=NC3=C2NC(=NC3=S)N)CO)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb670>
+918,919,Thiouracil,11.9,55,141-90-2,C1=CNC(=S)NC1=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb6c0>
+919,920,Tilidine fumarate ,,,55567-81-2,CCOC(=O)[C@@]1(CCC=C[C@H]1N(C)C)C2=CC=CC=C2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb710>
+920,921,Tilisolol,,,62774-96-3,CC(C)(C)NCC(COC1=CN(C(=O)C2=CC=CC=C21)C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb760>
+921,922,Dl-alpha-Tocopherol,,,10191-41-0,CC1=C(C(=C2CCC(OC2=C1C)(C)CCCC(C)CCCC(C)CCCC(C)C)C)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb7b0>
+922,923,Dl-alpha-Tocopheryl acetate,,,7695-91-2,CC1=C2C(=C(C(=C1C)OC(=O)C)C)CCC(O2)(C)CCCC(C)CCCC(C)CCCC(C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb800>
+923,924,Tolazamide,,,1156-19-0,CC1=CC=C(C=C1)S(=O)(=O)NC(=O)NN2CCCCCC2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb850>
+924,925,Tolbutamide,,,64-77-7,CCCCNC(=O)NS(=O)(=O)C1=CC=C(C=C1)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb8a0>
+925,926,Toluene,3060,,108-88-3,CC1=CC=CC=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb8f0>
+926,927,Toluene diisocyanate,33.7,250,26471-62-5,CC1=C(C=C(C=C1)N=C=O)N=C=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb940>
+927,928,O-Toluenesulfonamide,3960,,88-19-7,CC1=CC=CC=C1S(=O)(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb990>
+928,929,m-Toluidine,,1440,0638-03-09,CC1=CC(=CC=C1)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eb9e0>
+929,930,o-Toluidine,43.6,840,636-21-5,CC1=CC=CC=C1N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eba30>
+930,931,p-Toluidine,,83.5,540-23-8,CC1=CC=C(C=C1)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eba80>
+931,932,p-Tolylurea,,206,622-51-5,CC1=CC=C(C=C1)NC(=O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebad0>
+932,933,Toremifene citrate ,,,89778-27-8,CN(C)CCOC1=CC=C(C=C1)/C(=C(/CCCl)\C2=CC=CC=C2)/C3=CC=CC=C3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebb20>
+933,934,Toxaphene,,9.09,8001-35-2,C=C1C(C2(C(C(C1(C2(Cl)Cl)Cl)Cl)Cl)Cl)(CCl)CCl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebb70>
+934,935,Trenimon,0.00504,,68-76-8,C1CN1C2=CC(=O)C(=C(C2=O)N3CC3)N4CC4,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebbc0>
+936,937,Triamterene,,60.2,396-01-0,C1=CC=C(C=C1)C2=NC3=C(N=C2N)N=C(N=C3N)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebc10>
+937,938,Tributyl phosphate ,191,1120,126-73-8,CCCCOP(=O)(OCCCC)OCCCC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebc60>
+938,939,Tricaprylin,5490,,538-23-8,CCCCCCCC(=O)OCC(COC(=O)CCCCCCC)OC(=O)CCCCCCC,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebcb0>
+939,940,"2,4,6-Trichloroaniline",,259,634-93-5,C1=C(C=C(C(=C1Cl)N)Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebd00>
+940,941,N-(Trichloromethylthio)phthalimide,,1550,0133-07-03,C1=CC=C2C(=C1)C(=O)N(C2=O)SC(Cl)(Cl)Cl,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebd50>
+941,942,"2,4,6-Trichlorophenol",405,1070,1988-06-02,C1=C(C=C(C(=C1Cl)O)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebda0>
+942,943,"2,4,5-Trichlorophenoxyacetic acid",,,93-76-5,C1=C(C(=CC(=C1Cl)Cl)Cl)OCC(=O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebdf0>
+943,944,Trichlorophone,,,52-68-6,COP(=O)(C(C(Cl)(Cl)Cl)O)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebe40>
+944,945,"1,2,3-Trichloropropane",1.35,0.875,96-18-4,C(C(CCl)Cl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebe90>
+945,946,Tricresyl phosphate,,,1330-78-5,CC1=CC=C(C=C1)OP(=O)(OC2=CC=C(C=C2)C)OC3=CC=C(C=C3)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebee0>
+946,947,Triethanolamine,,100,102-71-6,C(CO)N(CCO)CCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebf30>
+947,948,Triethylene glycol ,,,112-27-6,C(COCCOCCO)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ebf80>
+948,949,"2,2,2-Trifluoro-N-[-(5-nitro-2-furyl)- 2-thiazolyl]acetamide",6.79,9.98,42011-48-3,C1=C(OC(=C1)[N+](=O)[O-])C2=CSC(=N2)NC(=O)C(F)(F)F,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec030>
+949,950,Trifluralin,,330,1582-09-08,CCCN(CCC)C1=C(C=C(C=C1[N+](=O)[O-])C(F)(F)F)[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec080>
+950,951,Trimethadione,,,127-48-0,CC1(C(=O)N(C(=O)O1)C)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec0d0>
+951,952,"(+-)-7-(3,5,6-trimet hyl-1,4-benzoquin on-2-yl)-7-phenylheptanoic acid",,,112665-43-7,CC1=C(C(=O)C(=C(C1=O)C)C(CCCCCC(=O)O)C2=CC=CC=C2)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec120>
+952,953,"2,4,5-Trimethylaniline",33.6,6.13,137-17-7,CC1=CC(=C(C=C1C)N)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec170>
+953,954,"2,4,5-Trimethylaniline Hcl",98.5,45.5,21436-97-5,CC1=CC(=C(C(=C1)C)N)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec1c0>
+954,955,"1,2,4-Trimethylbenzene",4350,,95-63-6,CC1=CC(=C(C=C1)C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec210>
+955,956,Trimethylphosphate,,335,512-56-1,COP(=O)(OC)OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec260>
+956,957,Trimethylthiourea,25.8,,2489-77-2,CNC(=S)N(C)C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec2b0>
+957,958,"1,3,5-Trinitrobenzene",,,99-35-4,C1=C(C=C(C=C1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec300>
+958,959,Trinitroglycerin,183,,55-63-0,C(C(CO[N+](=O)[O-])O[N+](=O)[O-])O[N+](=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec350>
+959,960,Triphenyltin hydroxide,,,76-87-9,C1=CC=C(C=C1)[Sn](C2=CC=CC=C2)C3=CC=CC=C3.O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec3a0>
+960,961,Triprolidine monohydrate,,,6138-79-0,CC1=CC=C(C=C1)/C(=C\CN2CCCC2)/C3=CC=CC=N3,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec3f0>
+961,962,Tris(2-chloroethyl) phosphate,86.7,969,115-96-8,C(CCl)OP(=O)(OCCCl)OCCCl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec440>
+962,963,"Tris(2,3-dibromopropyl)phosphate",3.83,128,126-72-7,C(C(CBr)Br)OP(=O)(OCC(CBr)Br)OCC(CBr)Br,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec490>
+963,964,"Tris-(1,3-dichloro-2-propyl)phosphate",46.4,,13674-87-8,C(C(CCl)OP(=O)(OC(CCl)CCl)OC(CCl)CCl)Cl,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec4e0>
+964,965,Tris(2-ethylhexyl)phosphate,,2560,78-42-2,CCCCC(CC)COP(=O)(OCC(CC)CCCC)OCC(CC)CCCC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec530>
+965,966,Tris(2-hydroxypropyl)amine,,,122-20-3,CC(CN(CC(C)O)CC(C)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec580>
+966,967,N-Tritriacontane-16-18-dione,,,24514-86-1,CCCCCCCCCCCCCCCC(=O)CC(=O)CCCCCCCCCCCCCCC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec5d0>
+967,968,Trp-P-1 acetate ,0.575,40.7,75104-43-7,CC1=C(N=C(C2=C1NC3=CC=CC=C32)C)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec620>
+968,969,Trp-P-2 acetate ,6.66,12.6,72254-58-1,CC1=C2C3=CC=CC=C3NC2=CC(=N1)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec670>
+969,970,dl-Tryptophan,,,1954-12-06,C1=CC=C2C(=C1)C(=CN2)CC(C(=O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec6c0>
+970,971,l-Tryptophan,,,73-22-3,C1=CC=C2C(=C1)C(=CN2)C[C@@H](C(=O)O)N,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec710>
+971,972,Uracil,671,2750,66-22-8,C1=CNC(=O)NC1=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec760>
+972,973,Urapidil,,,34661-75-1,CN1C(=CC(=O)N(C1=O)C)NCCCN2CCN(CC2)C3=CC=CC=C3OC,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec7b0>
+973,974,Urethane,41.3,16.9,51-79-6,CCOC(=O)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec800>
+974,975,Vinyl acetate ,341,3920,0108-05-04,CC(=O)OC=C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec850>
+975,976,3-Methylstyrene,,,100-80-1,CC1=CC=CC(=C1)C=C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec8a0>
+976,977,N-Vinylpyrrolidone-2,12,,88-12-0,C=CN1CCCC1=O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec8f0>
+978,979,Voglibose,,,83480-29-9,C1[C@@H]([C@@H]([C@H]([C@@H]([C@]1(CO)O)O)O)O)NC(CO)CO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec940>
+980,981,Xylazine,,,23076-35-9,CC1=C(C(=CC=C1)C)NC2=NCCCS2,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec990>
+981,982,"2,4-Xylidine",,12.4,21436-96-4,CC1=CC(=C(C=C1)N)C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ec9e0>
+982,983,"2,5-Xylidine",152,626,51786-53-9,CC1=CC(=C(C=C1)C)N,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eca30>
+983,984,C.I. disperse yellow 3,380,1020,2832-40-8,CC1=C/C(=N/NC2=CC=C(C=C2)NC(=O)C)/C(=O)C=C1,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eca80>
+987,988,C.I. vat yellow 4 ,,10900,128-66-5,C1=CC=C2C(=C1)C3=C4C(=CC=C5C4=C(C=C3)C(=O)C6=CC=CC=C65)C2=O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ecad0>
+988,989,FD & C yellow no.5,,,1934-21-0,C1=CC(=CC=C1N/N=C\2/C(=NN(C2=O)C3=CC=C(C=C3)S(=O)(=O)[O-])C(=O)[O-])S(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ecb20>
+989,990,FD & C yellow no.6,,,2783-94-0,C1=CC(=CC=C1N/N=C\2/C3=C(C=CC2=O)C=C(C=C3)S(=O)(=O)[O-])S(=O)(=O)[O-],Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ecb70>
+990,991,HC yellow 4 ,,,59820-43-8,C1=CC(=C(C=C1[N+](=O)[O-])OCCO)NCCO,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ecbc0>
+992,993,Zearalenone,,39,17924-92-4,C[C@H]1CCCC(=O)CCC/C=C/C2=CC(=CC(=C2C(=O)O1)O)O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871eccb0>
+993,994,"2,2-Bis(bromomet hyl)-1,3-propanediol",111,137,3296-90-0,C(C(CO)(CBr)CBr)O,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ecd00>
+996,997,"1,3-Butadiene",261,13.9,106-99-0,C=CC=C,Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ecd50>
+997,998,Calcium lactate ,,,814-80-2,CC(C(=O)[O-])O,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ecda0>
+998,999,Calcium valproate ,1300,,33433-82-8,CCCC(CCC)C(=O)[O-],Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ecdf0>
+999,1000,Propylene,,,0115-07-01,CC=C,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ece40>
+1001,1002,Tetrakis(hydroxymethyl)phosphonium chloride,,,124-64-1,C(O)[P+](CO)(CO)CO ,Non-Carcinogen,<rdkit.Chem.rdchem.Mol object at 0x7fb5871ece90>
